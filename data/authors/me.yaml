@@ -1,28 +1,26 @@
 schema: hugoblox/author/v1
-slug: me
+slug: supervisor
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Dr. Kuntal Misra
+  given: Kuntal
+  family: Misra
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: she/her
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Scientist / Professor
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+    Research interests include Gamma-Ray Bursts,
+    Kilonovae, Host Galaxies and Time Domain Astronomy.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: ARIES
+    url: https://www.aries.res.in
 
 links:
   - icon: at-symbol
