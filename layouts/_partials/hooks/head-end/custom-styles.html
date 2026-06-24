@@ -40,9 +40,14 @@
     transition: all 0.2s ease-in-out !important;
   }
 
-  /* Expand max-width of main content for a spacious, modern look */
-  .max-w-prose {
-    max-width: 80rem !important; /* Spreads out layout gracefully */
+  /* Let the main prose container span the full page width (up to the max-w-6xl container) */
+  .prose {
+    max-width: 100% !important;
+  }
+
+  /* Limit regular text paragraphs to comfortable reading width for better readability */
+  .prose > p, .prose > blockquote {
+    max-width: 48rem !important;
   }
 
   /* Premium layout styling for regular standard pages */
