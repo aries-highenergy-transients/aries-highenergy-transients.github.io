@@ -21,8 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Gamma-Ray Bursts • Kilonovae • Multi-Messenger Astronomy"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Research group at ARIES studying Gamma-Ray Bursts, Supernovae, Kilonovae, and Multi-Messenger Astronomy using state-of-the-art ground and space observatories."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
@@ -38,9 +37,9 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "#4FC3F7" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: "#7C4DFF"
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#8b5cf6" # Cosmic violet-500
+      secondary: "#06b6d4" # Cosmic cyan-500
+      neutral: "slate" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}

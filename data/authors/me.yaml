@@ -6,18 +6,17 @@ name:
   display: Dr. Kuntal Misra
   given: Kuntal
   family: Misra
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  alternate: ''
+  pronunciation: ''
   pronouns: she/her
 postnominals:
   - PhD
-  - MIEEE
 status:
-  icon: "☕️"
-role: Scientist / Professor
+  icon: "✨"
+role: Scientist-E
 bio: |
-    Research interests include Gamma-Ray Bursts,
-    Kilonovae, Host Galaxies and Time Domain Astronomy.
+    Dr. Kuntal Misra is a Scientist-E at the Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital, India.
+    Her research focuses on high-energy cosmic transients, including Gamma-Ray Bursts, Supernovae, and the electromagnetic counterparts of gravitational wave sources.
 
 affiliations:
   - name: ARIES
@@ -25,91 +24,68 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:kuntal@aries.res.in
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=ci2NiyIAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Gamma-Ray Bursts (GRBs) & Afterglows
+  - Supernovae & Core-Collapse Physics
+  - Kilonovae & Gravitational Wave Counterparts
+  - Time-Domain Astronomy & Survey Science
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD in Physics (Astronomy & Astrophysics)
+    institution: ARIES and Kumaun University, India
+    start: 2003-09-01
+    end: 2008-12-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Scientist-E
+    org: Aryabhatta Research Institute of Observational Sciences (ARIES)
+    start: 2021-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Research lead focusing on supernovae, gamma-ray bursts, and space/ground-based transient follow-ups. Co-investigator on ILMT surveys.
+  - role: Scientist-D
+    org: Aryabhatta Research Institute of Observational Sciences (ARIES)
+    start: 2016-01-01
+    end: 2020-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted optical and spectroscopic studies of core-collapse supernovae and long GRB afterglows.
+  - role: Scientist-C
+    org: Aryabhatta Research Institute of Observational Sciences (ARIES)
+    start: 2011-01-01
+    end: 2015-12-31
 
 skills:
-  - name: Technical Skills
+  - name: Observational & Analytical
     items:
-      - label: Python
+      - label: Optical & Near-IR Photometry
         level: 5
-      - label: Machine Learning
+      - label: Optical Spectroscopy
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+      - label: Transient Selection & Modeling
+        level: 5
+  - name: Professional Leadership
     items:
-      - label: Academic Writing
+      - label: IAU National Astronomy Education Coordinator (NAEC) for India
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Life Member, Astronomical Society of India (ASI)
+        level: 5
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
+  - title: INSA Visiting Scientist Fellowship
+    awarder: Indian National Science Academy
     date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+    summary: Awarded for research collaboration on high-energy transients.

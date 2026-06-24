@@ -1,0 +1,56 @@
+<style>
+  /* Left-align typography in content blocks for superior readability */
+  .prose {
+    text-align: left !important;
+  }
+
+  /* Adjust the flex container centering to left-align the text blocks */
+  .flex.flex-col.items-center.max-w-prose.mx-auto {
+    align-items: flex-start !important;
+    text-align: left !important;
+  }
+
+  /* Make lists and list items display correctly left-aligned */
+  .prose ul, .prose ol {
+    text-align: left !important;
+    padding-left: 1.5rem !important;
+    width: 100% !important;
+  }
+
+  /* Ensure the block title is left-aligned with a subtle cosmic separator */
+  .flex.flex-col.items-center.max-w-prose.mx-auto .text-3xl {
+    text-align: left !important;
+    width: 100% !important;
+    border-bottom: 2px solid rgba(139, 92, 246, 0.2);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+    color: #f8fafc;
+  }
+
+  /* Add spacing and style to block subtitles */
+  .flex.flex-col.items-center.max-w-prose.mx-auto .text-3xl + p {
+    color: #06b6d4 !important;
+    font-weight: 500 !important;
+    margin-top: -1rem !important;
+    margin-bottom: 1.5rem !important;
+  }
+
+  /* Smooth transition for all links */
+  a {
+    transition: all 0.2s ease-in-out !important;
+  }
+
+  /* Expand max-width of main content for a spacious, modern look */
+  .max-w-prose {
+    max-width: 80rem !important; /* Spreads out layout gracefully */
+  }
+
+  /* Premium layout styling for regular standard pages */
+  main article {
+    text-align: left !important;
+  }
+
+  main article h1, main article h2, main article h3 {
+    text-align: left !important;
+  }
+</style>
