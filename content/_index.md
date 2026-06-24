@@ -1,6 +1,22 @@
 ---
-title: ""
+title: "📚 My Research"
 type: landing
+text: |-
+  The High Energy Astrophysics Group at ARIES studies
+  Gamma-Ray Bursts, Kilonovae, relativistic jets,
+  host galaxies, and multi-messenger transients.
+
+  Our research combines observations from ground-based
+  and space-based observatories with theoretical
+  modelling to understand the most energetic explosions
+  in the Universe.
+
+  Current projects include:
+  - GRB host galaxy studies
+  - Kilonova-associated GRBs
+  - Afterglow modelling
+  - Prompt emission analysis
+  - Multi-messenger astronomy
 
 sections:
 
