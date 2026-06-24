@@ -34,6 +34,7 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
+    disabled: true
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -70,6 +71,7 @@ sections:
       view: citation
   - block: collection
     id: talks
+    disabled: true
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -79,6 +81,7 @@ sections:
       view: card
   - block: collection
     id: news
+    disabled: true
     content:
       title: Recent News
       subtitle: ''
@@ -107,6 +110,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
+    disabled: true
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:
       title: 👉 Build your own academic website like this
