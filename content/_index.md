@@ -47,6 +47,7 @@ sections:
       columns: '1'
   - block: collection
     id: papers
+    disabled: true
     content:
       title: Featured Publications
       filters:
@@ -57,6 +58,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    disabled: true
     content:
       title: Recent Publications
       text: ''
