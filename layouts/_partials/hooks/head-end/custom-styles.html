@@ -67,10 +67,14 @@
   .prose > p, .prose > blockquote, .prose > hr, .prose > h1, .prose > h2, .prose > h3, .prose > h4, .prose > h5, .prose > h6, .prose ul, .prose ol {
     max-width: 50rem !important;
     width: 100% !important;
-    font-size: 1.05rem !important;
-    line-height: 1.75 !important;
     margin-left: auto !important;
     margin-right: auto !important;
+  }
+
+  /* Set body prose text specific sizing and line-height */
+  .prose > p, .prose ul, .prose ol {
+    font-size: 1.05rem !important;
+    line-height: 1.75 !important;
   }
 
   /* Let wrappers have a clean maximum width aligned with the capsule navbar */
@@ -79,6 +83,9 @@
     width: 100% !important;
     margin-left: auto !important;
     margin-right: auto !important;
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+    box-sizing: border-box !important;
   }
 
   /* Adjust the flex container centering to left-align the text blocks but limit content width */
@@ -89,14 +96,10 @@
     width: 100% !important;
   }
 
-  /* Force the page body wrapper to span maximum of 1200px and center it */
+  /* Force the page body wrapper to span full width dynamically so background images stretch edge-to-edge */
   .page-body {
-    max-width: 1200px !important;
+    max-width: 100% !important;
     width: 100% !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-left: 1.5rem !important;
-    padding-right: 1.5rem !important;
     box-sizing: border-box !important;
   }
 
