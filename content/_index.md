@@ -49,13 +49,14 @@ sections:
       title: "Group Lead"
       subtitle: "Meet Dr. Kuntal Misra"
       text: |
-        <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin-top: 1rem;">
-          <img src="/media/me.png" alt="Dr. Kuntal Misra" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; border: 3px solid #f59e0b; box-shadow: 0 0 15px rgba(245, 158, 11, 0.4);">
-          <div style="flex: 1; min-width: 250px;">
-            <h3 style="margin-top: 0;">Dr. Kuntal Misra</h3>
-            <p><strong>Scientist-E, ARIES</strong></p>
-            <p style="color: #94a3b8;">Dr. Misra specializes in high-energy astrophysics, cosmic transients, and large surveys. She leads the group's research efforts and serves as the National Astronomy Education Coordinator (NAEC) for India in the International Astronomical Union (IAU).</p>
-            <p style="margin-bottom: 0;"><a href="/authors/me/" class="scholar-link" style="font-weight: 600;">View Profile & Publications →</a></p>
+        <div class="lead-card">
+          <img src="/media/me.png" alt="Dr. Kuntal Misra" class="lead-img">
+          <div>
+            <h3 class="lead-title">Dr. Kuntal Misra</h3>
+            <p style="margin: 0.2rem 0;"><strong>Scientist-E, ARIES</strong></p>
+            <p style="margin: 0.2rem 0; color: #94a3b8;">PhD (2008, ARIES & Kumaun University)</p>
+            <p style="margin: 0.5rem 0;">Dr. Misra specializes in high-energy astrophysics, cosmic transients, and large surveys. She leads the group's research efforts and serves as the National Astronomy Education Coordinator (NAEC) for India in the International Astronomical Union (IAU).</p>
+            <p style="margin: 0.5rem 0;"><a href="/authors/me/" class="scholar-link" style="font-weight: 600;">Full Profile & Publications →</a></p>
           </div>
         </div>
     design:
