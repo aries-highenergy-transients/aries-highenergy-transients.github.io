@@ -154,31 +154,34 @@
   }
 
   /* ---------------------------------------------------------
-     CAPSULE FLOATING NAVBAR
+     ATTACHED TOP NAVBAR
      --------------------------------------------------------- */
   .page-header {
     background: transparent !important;
-    padding: 1.25rem 1rem !important;
+    padding: 0 !important;
     box-shadow: none !important;
+    width: 100% !important;
   }
 
   .navbar {
-    max-width: 1200px !important;
-    margin: 0 auto !important;
-    padding: 0.5rem 1.75rem !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0.75rem 2rem !important;
     background: rgba(10, 15, 30, 0.75) !important;
     backdrop-filter: blur(16px) !important;
     -webkit-backdrop-filter: blur(16px) !important;
-    border-radius: 9999px !important;
-    border: 1px solid rgba(245, 158, 11, 0.15) !important;
-    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.6) !important;
+    border-radius: 0 !important;
+    border: none !important;
+    border-bottom: 1px solid rgba(245, 158, 11, 0.15) !important;
+    box-shadow: 0 4px 20px -5px rgba(0, 0, 0, 0.4) !important;
     transition: background-color 0.3s, border-color 0.3s !important;
   }
 
   html:not(.dark) .navbar {
     background: rgba(255, 255, 255, 0.8) !important;
-    border-color: rgba(245, 158, 11, 0.2) !important;
-    box-shadow: 0 10px 25px -10px rgba(0, 0, 0, 0.08) !important;
+    border-color: transparent !important;
+    border-bottom: 1px solid rgba(245, 158, 11, 0.12) !important;
+    box-shadow: 0 4px 15px -5px rgba(0, 0, 0, 0.05) !important;
   }
 
   /* Navigation Link Items inside Capsule */
