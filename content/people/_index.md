@@ -98,6 +98,23 @@ We have talented research scholars carrying out advanced research on high-energy
     </div>
   </div>
 
+  <!-- Scholar 5: Anshika Gupta -->
+  <div class="scholar-card">
+    <div class="scholar-header">
+      <img src="/media/anshika.png" alt="Anshik Gupta" class="scholar-img">
+      <div>
+        <h4 class="scholar-name">Anshika Gupta</h4>
+        <p class="scholar-role">Senior Research Fellow (SRF)</p>
+        <p class="scholar-bio">
+          Joined the group in June 2023. Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.
+        </p>
+      </div>
+    </div>
+    <div class="scholar-footer">
+      <span>Email: <a href="mailto:anshika@aries.res.in" class="scholar-link">anshika@aries.res.in</a></span>
+    </div>
+  </div>
+
 </div>
 
 ---
