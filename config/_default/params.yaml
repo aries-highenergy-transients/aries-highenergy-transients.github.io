@@ -37,8 +37,8 @@ hugoblox:
     pack: "default"
     # Optional: Override theme pack colors
     colors:
-      primary: "#8b5cf6" # Cosmic violet-500
-      secondary: "#06b6d4" # Cosmic cyan-500
+      primary: "#f59e0b" # Solar Gold
+      secondary: "#f97316" # Plasma Orange
       neutral: "slate" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
