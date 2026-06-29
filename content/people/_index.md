@@ -50,13 +50,13 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-joined"></div>
       <div class="modal-pubs-first">
         <ul>
-          <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024)</li>
+          <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://ui.adsabs.harvard.edu/abs/2024BSRSL..93..837A" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
       <div class="modal-pubs-contrib">
         <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026)</li>
-          <li><strong>The 4 m International Liquid Mirror Telescope: construction, operation, and science</strong>, Astronomy & Astrophysics (2025)</li>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X" target="_blank" rel="noopener">ADS Link</a>]</li>
+          <li><strong>The 4 m International Liquid Mirror Telescope: construction, operation, and science</strong>, Astronomy & Astrophysics (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2025A&A...694A..80S" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
     </div>
@@ -95,15 +95,15 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-joined">2021</div>
       <div class="modal-pubs-first">
         <ul>
-          <li><strong>Probing the circumstellar environment of the highly luminous Type IIn Supernova ASASSN-14il</strong>, The Astrophysical Journal (2024)</li>
-          <li><strong>Astrometric and Photometric Standard Candidates for the Upcoming 4-m International Liquid Mirror Telescope Survey</strong>, Journal of Astronomical Instrumentation (2022)</li>
+          <li><strong>Probing the circumstellar environment of the highly luminous Type IIn Supernova ASASSN-14il</strong>, The Astrophysical Journal (2024) [<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...976...86D" target="_blank" rel="noopener">ADS Link</a>]</li>
+          <li><strong>Astrometric and Photometric Standard Candidates for the Upcoming 4-m International Liquid Mirror Telescope Survey</strong>, Journal of Astronomical Instrumentation (2022) [<a href="https://ui.adsabs.harvard.edu/abs/2022JAI....1140001D" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
       <div class="modal-pubs-contrib">
         <ul>
-          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025)</li>
-          <li><strong>SN 2021foa: the bridge between SN IIn and Ibn</strong>, Monthly Notices of the Royal Astronomical Society (2025)</li>
-          <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025)</li>
+          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.547.2882G" target="_blank" rel="noopener">ADS Link</a>]</li>
+          <li><strong>SN 2021foa: the bridge between SN IIn and Ibn</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.537.2898G" target="_blank" rel="noopener">ADS Link</a>]</li>
+          <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.541..384D" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
     </div>
@@ -147,14 +147,14 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-joined">2022</div>
       <div class="modal-pubs-first">
         <ul>
-          <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025)</li>
-          <li><strong>SN 2023zcu: Photometric and spectroscopic analysis of a Type IIP supernova from rise to nebular phase</strong>, The Astrophysical Journal (2025)</li>
+          <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.541..384D" target="_blank" rel="noopener">ADS Link</a>]</li>
+          <li><strong>SN 2023zcu: Photometric and spectroscopic analysis of a Type IIP supernova from rise to nebular phase</strong>, The Astrophysical Journal (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...997...42D" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
       <div class="modal-pubs-contrib">
         <ul>
-          <li><strong>SN 2024aecx: A Nearby Fast-evolving Type IIb Supernova</strong>, The Astrophysical Journal (2026)</li>
-          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025)</li>
+          <li><strong>SN 2024aecx: A Nearby Fast-evolving Type IIb Supernova</strong>, The Astrophysical Journal (2026) [<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X" target="_blank" rel="noopener">ADS Link</a>]</li>
+          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.547.2882G" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
     </div>
@@ -195,7 +195,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       </div>
       <div class="modal-pubs-contrib">
         <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026)</li>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
     </div>
@@ -228,7 +228,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       </div>
       <div class="modal-pubs-contrib">
         <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026)</li>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
     </div>
@@ -261,7 +261,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       </div>
       <div class="modal-pubs-contrib">
         <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026)</li>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X" target="_blank" rel="noopener">ADS Link</a>]</li>
         </ul>
       </div>
     </div>

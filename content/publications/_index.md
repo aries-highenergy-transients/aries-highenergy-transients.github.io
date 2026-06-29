@@ -33,22 +33,22 @@ Below is a selection of recent and high-impact publications from the ARIES High 
 *   **GRB 230204B: GIT Discovery of a Fast Fading Afterglow Associated with an Energetic Gamma-Ray Burst from a Massive Star Progenitor**
     *   *Authors:* Vishwajeet Swain, ... **Kuntal Misra**, et al.
     *   *Journal:* *The Astrophysical Journal*, 991, 102 (2026)
-    *   *Links:* [[DOI: 10.3847/1538-4357/ad1a01](https://doi.org/10.3847/1538-4357/ad1a01)]
+    *   *Links:* [[DOI: 10.3847/1538-4357/ae459f](https://doi.org/10.3847/1538-4357/ae459f)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...1000...58S)]
 
 *   **SN 2024aecx: A Fast-evolving Type IIb Supernova with a Prominent Shock-cooling Peak**
     *   *Authors:* Qiang Xi, ... **Kuntal Misra**, et al.
     *   *Journal:* *The Astrophysical Journal*, 990, 45 (2026)
-    *   *Links:* [[ADS Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X)]
+    *   *Links:* [[DOI: 10.3847/1538-4357/ae2d06](https://doi.org/10.3847/1538-4357/ae2d06)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...990...45X)]
 
 *   **Photometry and spectroscopy of SN 2024pxl: a luminosity link among type Iax supernovae**
     *   *Authors:* Mridweeka Singh, ... **Kuntal Misra**, et al.
     *   *Journal:* *The Astrophysical Journal*, 989, 78 (2026)
-    *   *Links:* [[ADS Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...989...78S)]
+    *   *Links:* [[DOI: 10.3847/1538-4357/ae4318](https://doi.org/10.3847/1538-4357/ae4318)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..227S)]
 
 *   **Abundance stratification in type Iax SN 2020rea with TARDIS**
     *   *Authors:* Sohini Kayal, P. Gayatri, Mridweeka Singh, **Kuntal Misra**
     *   *Journal:* *Journal of Astrophysics and Astronomy*, 47, 12 (2026)
-    *   *Links:* [[DOI: 10.1007/s12036-025-09999-w](https://doi.org/10.1007/s12036-025-09999-w)]
+    *   *Links:* [[DOI: 10.1007/s12036-026-10136-5](https://doi.org/10.1007/s12036-026-10136-5)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2026JApA...47...19K)]
 
 ---
 
@@ -56,21 +56,21 @@ Below is a selection of recent and high-impact publications from the ARIES High 
 
 *   **Flash Ionization Signatures in the Type Ibn Supernova SN 2019uo**
     *   *Authors:* **Anjasha Gangopadhyay**, **Kuntal Misra**, D. Hiramatsu, et al.
-    *   *Journal:* *The Astrophysical Journal*, 899, 142 (2020)
+    *   *Journal:* *The Astrophysical Journal*, 889, 170 (2020)
     *   *Brief:* Multi-wavelength study of a rare Ibn supernova exhibiting narrow helium emission lines from flash ionization of circumstellar material.
-    *   *Links:* [[DOI: 10.3847/1538-4357/aba434](https://doi.org/10.3847/1538-4357/aba434)]
+    *   *Links:* [[DOI: 10.3847/1538-4357/ab6328](https://doi.org/10.3847/1538-4357/ab6328)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2020ApJ...889..170G)]
 
 *   **Photometric and spectroscopic evolution of the peculiar Type IIn SN 2012ab**
     *   *Authors:* **Anjasha Gangopadhyay**, M. Turatto, S. Benetti, **Kuntal Misra**, et al.
     *   *Journal:* *Monthly Notices of the Royal Astronomical Society*, 499, 129–142 (2020)
-    *   *Links:* [[DOI: 10.1093/mnras/staa2783](https://doi.org/10.1093/mnras/staa2783)]
+    *   *Links:* [[DOI: 10.1093/mnras/staa2783](https://doi.org/10.1093/mnras/staa2783)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499..129G)]
 
 *   **SN 2015an: a normal luminosity type II supernova with low expansion velocity at early phases**
     *   *Authors:* R. Dastidar, **Kuntal Misra**, S. Valenti, et al.
-    *   *Journal:* *Monthly Notices of the Royal Astronomical Society*, 486, 2850–2861 (2019)
-    *   *Links:* [[DOI: 10.1093/mnras/stz1002](https://doi.org/10.1093/mnras/stz1002)]
+    *   *Journal:* *Monthly Notices of the Royal Astronomical Society*, 490, 1605–1619 (2019)
+    *   *Links:* [[DOI: 10.1093/mnras/stz2703](https://doi.org/10.1093/mnras/stz2703)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.1605D)]
 
 *   **Exploring the optical behaviour of a Type Iax supernova SN 2014dt**
     *   *Authors:* Mridweeka Singh, **Kuntal Misra**, D. K. Sahu, et al.
     *   *Journal:* *Monthly Notices of the Royal Astronomical Society*, 474, 2551–2563 (2018)
-    *   *Links:* [[DOI: 10.1093/mnras/stx2901](https://doi.org/10.1093/mnras/stx2901)]
+    *   *Links:* [[DOI: 10.1093/mnras/stx2901](https://doi.org/10.1093/mnras/stx2901)] [[ADS Link](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474.2551S)]
