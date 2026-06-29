@@ -818,6 +818,37 @@
     border-color: rgba(245, 158, 11, 0.25) !important;
     color: #b45309 !important;
   }
+
+  /* Publication Lists in Modal */
+  .scholar-modal-pubs-first-content ul,
+  .scholar-modal-pubs-contrib-content ul {
+    margin: 0.5rem 0 0 1.25rem !important;
+    padding: 0 !important;
+    list-style-type: disc !important;
+  }
+
+  .scholar-modal-pubs-first-content li,
+  .scholar-modal-pubs-contrib-content li {
+    font-size: 0.9rem !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0.5rem !important;
+    color: #cbd5e1 !important;
+  }
+
+  html:not(.dark) .scholar-modal-pubs-first-content li,
+  html:not(.dark) .scholar-modal-pubs-contrib-content li {
+    color: #334155 !important;
+  }
+
+  .scholar-modal-pubs-first-content li strong,
+  .scholar-modal-pubs-contrib-content li strong {
+    color: #f8fafc !important;
+  }
+
+  html:not(.dark) .scholar-modal-pubs-first-content li strong,
+  html:not(.dark) .scholar-modal-pubs-contrib-content li strong {
+    color: #0f172a !important;
+  }
 </style>
 
 <script>
@@ -857,6 +888,16 @@
               <h5 class="scholar-modal-section-title">Biography</h5>
               <p class="scholar-modal-text scholar-modal-bio-text"></p>
             </div>
+
+            <div class="scholar-modal-pubs-first-section">
+              <h5 class="scholar-modal-section-title">First-Author Publications</h5>
+              <div class="scholar-modal-text scholar-modal-pubs-first-content"></div>
+            </div>
+
+            <div class="scholar-modal-pubs-contrib-section">
+              <h5 class="scholar-modal-section-title">Co-authored / Contributor Publications</h5>
+              <div class="scholar-modal-text scholar-modal-pubs-contrib-content"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -878,6 +919,10 @@
     var tagsContainer = modalOverlay.querySelector('.scholar-modal-tags');
     var bioSection = modalOverlay.querySelector('.scholar-modal-bio-section');
     var bioText = modalOverlay.querySelector('.scholar-modal-bio-text');
+    var pubsFirstSection = modalOverlay.querySelector('.scholar-modal-pubs-first-section');
+    var pubsFirstContent = modalOverlay.querySelector('.scholar-modal-pubs-first-content');
+    var pubsContribSection = modalOverlay.querySelector('.scholar-modal-pubs-contrib-section');
+    var pubsContribContent = modalOverlay.querySelector('.scholar-modal-pubs-contrib-content');
 
     // 2. Open modal function
     window.openScholarModal = function(card) {
@@ -966,6 +1011,24 @@
           bioSection.style.display = 'block';
         } else {
           bioSection.style.display = 'none';
+        }
+
+        // First-Author Publications
+        var valPubsFirst = hiddenDetails.querySelector('.modal-pubs-first');
+        if (valPubsFirst && valPubsFirst.innerHTML.trim() && valPubsFirst.innerHTML.trim() !== '<p>None yet</p>' && !valPubsFirst.textContent.includes('None yet')) {
+          pubsFirstContent.innerHTML = valPubsFirst.innerHTML.trim();
+          pubsFirstSection.style.display = 'block';
+        } else {
+          pubsFirstSection.style.display = 'none';
+        }
+
+        // Contributor Publications
+        var valPubsContrib = hiddenDetails.querySelector('.modal-pubs-contrib');
+        if (valPubsContrib && valPubsContrib.innerHTML.trim() && valPubsContrib.innerHTML.trim() !== '<p>None yet</p>' && !valPubsContrib.textContent.includes('None yet')) {
+          pubsContribContent.innerHTML = valPubsContrib.innerHTML.trim();
+          pubsContribSection.style.display = 'block';
+        } else {
+          pubsContribSection.style.display = 'none';
         }
       } else {
         // Fallbacks for cards without hidden details yet
