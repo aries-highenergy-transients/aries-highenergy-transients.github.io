@@ -22,8 +22,7 @@ Uttarakhand, India
 
 *   **Group Lead Email:** [kuntal@aries.res.in](mailto:kuntal@aries.res.in)
 *   **Institutional Website:** [https://www.aries.res.in](https://www.aries.res.in)
-*   **Tel:** +91-5942-270700 (ARIES Main Office)
-*   **Fax:** +91-5942-233439
+*   **Tel:** +91-5942-270742 (ARIES Main Office)
 
 ---
 
