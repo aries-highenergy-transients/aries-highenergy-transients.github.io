@@ -52,13 +52,15 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-joined"></div>
       <div class="modal-pubs-first">
         <ul>
-          <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11892" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>PyLMT: A transient detection pipeline for the 4-m International Liquid Mirror Telescope</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf206" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Transfer learning for transient search with small-field optical survey telescopes</strong>, RAS Techniques and Instruments (2026) [<a href="https://doi.org/10.1093/rasti/rzag044" target="_blank" rel="noopener">DOI</a>]</li>
         </ul>
       </div>
       <div class="modal-pubs-contrib">
         <ul>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>The 4 m International Liquid Mirror Telescope: construction, operation, and science</strong>, Astronomy & Astrophysics (2025) [<a href="https://doi.org/10.1051/0004-6361/202452667" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11892" target="_blank" rel="noopener">DOI</a>]</li>
         </ul>
       </div>
     </div>
