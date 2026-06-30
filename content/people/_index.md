@@ -81,7 +81,7 @@ We have talented research scholars carrying out advanced research on high-energy
       <img src="/media/pranshu.jpg" alt="Kumar Pranshu" class="scholar-img">
       <div>
         <h4 class="scholar-name">Kumar Pranshu</h4>
-        <p class="scholar-role">Senior Research Fellow (SRF)</p>
+        <p class="scholar-role">M.Tech-Ph.D. Student (4th Year)</p>
         <p class="scholar-bio">
           Working on pipeline development, data reduction, and transient analysis for the 4-m International Liquid Mirror Telescope (ILMT) survey.
         </p>
@@ -186,7 +186,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <img src="/media/sarvesh.jpg" alt="Sarvesh Kumar Yadav" class="scholar-img">
       <div>
         <h4 class="scholar-name">Sarvesh Kumar Yadav</h4>
-        <p class="scholar-role">M.Tech-Ph.D. Student</p>
+        <p class="scholar-role">M.Tech-Ph.D. Student (4th Year)</p>
         <p class="scholar-bio">
           Joined the group in July 2022. Working on transient detection and machine learning classification in astronomical surveys.
         </p>
@@ -204,7 +204,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-focus">Working on automated transient detection and the application of machine learning (transfer learning) to classify optical transients in survey datasets.</div>
       <div class="modal-interests">Transient detection, Machine Learning, Surveys, Time-domain astronomy</div>
       <div class="modal-bio"></div>
-      <div class="modal-joined">2022</div>
+      <div class="modal-joined">July 2022</div>
       <div class="modal-pubs-first">
         <ul>
           <li>None yet</li>
@@ -218,7 +218,106 @@ Apart from academics, I enjoy singing and learning different musical instruments
     </div>
   </div>
 
-  <!-- Scholar 5: Debalina Kar (2023) -->
+  <!-- Scholar 5: Anshika Gupta (2022) -->
+  <div class="scholar-card" onclick="openScholarModal(this)">
+    <div class="scholar-header">
+      <img src="/media/anshika.png" alt="Anshika Gupta" class="scholar-img">
+      <div>
+        <h4 class="scholar-name">Anshika Gupta</h4>
+        <p class="scholar-role">Senior Research Fellow (SRF)</p>
+        <p class="scholar-bio">
+          Joined the group in December 2022. Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.
+        </p>
+      </div>
+    </div>
+    <div class="scholar-footer">
+      <span>Email: <a href="mailto:anshika@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">anshika@aries.res.in</a></span>
+    </div>
+    <div class="scholar-details-hidden" style="display: none;">
+      <div class="modal-focus">Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.</div>
+      <div class="modal-interests">Gamma Ray Bursts, Optical & Infrared follow-up, Transient observation</div>
+      <div class="modal-bio"></div>
+      <div class="modal-joined">December 2022</div>
+      <div class="modal-pubs-first">
+        <ul>
+          <li>None yet</li>
+        </ul>
+      </div>
+      <div class="modal-pubs-contrib">
+        <ul>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scholar 6: Dhruv Jain (2023) -->
+  <div class="scholar-card" onclick="openScholarModal(this)">
+    <div class="scholar-header">
+      <img src="/media/dhruv.png" alt="Dhruv Jain" class="scholar-img">
+      <div>
+        <h4 class="scholar-name">Dhruv Jain</h4>
+        <p class="scholar-role">Senior Research Fellow (SRF)</p>
+        <p class="scholar-bio">
+          Joined the group in July 2023. Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.
+        </p>
+      </div>
+    </div>
+    <div class="scholar-footer">
+      <span>Email: <a href="mailto:dhruvjain@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">dhruvjain@aries.res.in</a></span>
+    </div>
+    <div class="scholar-details-hidden" style="display: none;">
+      <div class="modal-focus">Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.</div>
+      <div class="modal-interests">Gamma Ray Bursts, Optical & Infrared follow-up, Transient observation</div>
+      <div class="modal-bio"></div>
+      <div class="modal-joined">July 2023</div>
+      <div class="modal-pubs-first">
+        <ul>
+          <li>None yet</li>
+        </ul>
+      </div>
+      <div class="modal-pubs-contrib">
+        <ul>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scholar 7: Divyanshu Janghel (2023) -->
+  <div class="scholar-card" onclick="openScholarModal(this)">
+    <div class="scholar-header">
+      <img src="/media/Divyanshu.jpg" alt="Divyanshu Janghel" class="scholar-img">
+      <div>
+        <h4 class="scholar-name">Divyanshu Janghel</h4>
+        <p class="scholar-role">Senior Research Fellow (SRF)</p>
+        <p class="scholar-bio">
+          Joined the group in July 2023. Conducting research on cosmic transients and supernovae.
+        </p>
+      </div>
+    </div>
+    <div class="scholar-footer">
+      <span>Email: <a href="mailto:divyanshu@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">divyanshu@aries.res.in</a></span>
+    </div>
+    <div class="scholar-details-hidden" style="display: none;">
+      <div class="modal-focus">Conducting research on cosmic transients, focusing on high-cadence optical observations of supernovae.</div>
+      <div class="modal-interests">Supernovae, Transients, Time-domain astronomy</div>
+      <div class="modal-bio"></div>
+      <div class="modal-joined">July 2023</div>
+      <div class="modal-pubs-first">
+        <ul>
+          <li>None yet</li>
+        </ul>
+      </div>
+      <div class="modal-pubs-contrib">
+        <ul>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scholar 8: Debalina Kar (2023) -->
   <div class="scholar-card" onclick="openScholarModal(this)">
     <div class="scholar-header">
       <img src="/media/debalina.png" alt="Debalina Kar" class="scholar-img">
@@ -245,106 +344,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-focus">Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.</div>
       <div class="modal-interests">Gamma Ray Bursts, Transients, Optical & Infrared astronomy</div>
       <div class="modal-bio"></div>
-      <div class="modal-joined">2023</div>
-      <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
-      </div>
-      <div class="modal-pubs-contrib">
-        <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Scholar 6: Dhruv Jain (2023) -->
-  <div class="scholar-card" onclick="openScholarModal(this)">
-    <div class="scholar-header">
-      <img src="/media/dhruv.png" alt="Dhruv Jain" class="scholar-img">
-      <div>
-        <h4 class="scholar-name">Dhruv Jain</h4>
-        <p class="scholar-role">Senior Research Fellow (SRF)</p>
-        <p class="scholar-bio">
-          Joined the group in June 2023. Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.
-        </p>
-      </div>
-    </div>
-    <div class="scholar-footer">
-      <span>Email: <a href="mailto:dhruvjain@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">dhruvjain@aries.res.in</a></span>
-    </div>
-    <div class="scholar-details-hidden" style="display: none;">
-      <div class="modal-focus">Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.</div>
-      <div class="modal-interests">Gamma Ray Bursts, Optical & Infrared follow-up, Transient observation</div>
-      <div class="modal-bio"></div>
-      <div class="modal-joined">2023</div>
-      <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
-      </div>
-      <div class="modal-pubs-contrib">
-        <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Scholar 7: Anshika Gupta (2023) -->
-  <div class="scholar-card" onclick="openScholarModal(this)">
-    <div class="scholar-header">
-      <img src="/media/anshika.png" alt="Anshika Gupta" class="scholar-img">
-      <div>
-        <h4 class="scholar-name">Anshika Gupta</h4>
-        <p class="scholar-role">Senior Research Fellow (SRF)</p>
-        <p class="scholar-bio">
-          Joined the group in June 2023. Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.
-        </p>
-      </div>
-    </div>
-    <div class="scholar-footer">
-      <span>Email: <a href="mailto:anshika@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">anshika@aries.res.in</a></span>
-    </div>
-    <div class="scholar-details-hidden" style="display: none;">
-      <div class="modal-focus">Conducting research on the optical and infrared follow-up of Gamma-Ray Bursts and their host galaxies.</div>
-      <div class="modal-interests">Gamma Ray Bursts, Optical & Infrared follow-up, Transient observation</div>
-      <div class="modal-bio"></div>
-      <div class="modal-joined">2023</div>
-      <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
-      </div>
-      <div class="modal-pubs-contrib">
-        <ul>
-          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- Scholar 8: Divyanshu Janghel (2023) -->
-  <div class="scholar-card" onclick="openScholarModal(this)">
-    <div class="scholar-header">
-      <img src="/media/Divyanshu.jpg" alt="Divyanshu Janghel" class="scholar-img">
-      <div>
-        <h4 class="scholar-name">Divyanshu Janghel</h4>
-        <p class="scholar-role">Junior Research Fellow (JRF)</p>
-        <p class="scholar-bio">
-          Joined the group in July 2023. Conducting research on cosmic transients and supernovae.
-        </p>
-      </div>
-    </div>
-    <div class="scholar-footer">
-      <span>Email: <a href="mailto:divyanshu@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">divyanshu@aries.res.in</a></span>
-    </div>
-    <div class="scholar-details-hidden" style="display: none;">
-      <div class="modal-focus">Conducting research on cosmic transients, focusing on high-cadence optical observations of supernovae.</div>
-      <div class="modal-interests">Supernovae, Transients, Time-domain astronomy</div>
-      <div class="modal-bio"></div>
-      <div class="modal-joined">2023</div>
+      <div class="modal-joined">December 2023</div>
       <div class="modal-pubs-first">
         <ul>
           <li>None yet</li>
@@ -366,7 +366,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
         <h4 class="scholar-name">Pankaj Pawar</h4>
         <p class="scholar-role">Junior Research Fellow (JRF)</p>
         <p class="scholar-bio">
-          Joined the group in June 2024. Conducting research on Gamma-Ray Bursts (GRBs) and Transients.
+          Joined the group in July 2024. Conducting research on Gamma-Ray Bursts (GRBs) and Transients.
         </p>
       </div>
     </div>
@@ -387,7 +387,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-bio">I am Pankaj Pawar, originally from Ahmedabad, Gujarat. I completed my B.Sc. at Gujarat University and my Master's degree at Delhi University, specializing in Astronomy and Astrophysics. I joined ARIES as a Ph.D. scholar to pursue my passion for understanding the universe. Since joining the group, I have been studying Gamma-Ray Bursts (GRBs), which are some of the most elusive transient events in the cosmos.
 
 Beyond academics, I have a keen interest in nature photography and traveling. You can check out my Instagram account to see some of my shots.</div>
-      <div class="modal-joined">2024</div>
+      <div class="modal-joined">July 2024</div>
       <div class="modal-pubs-first">
         <ul>
           <li>None yet</li>
