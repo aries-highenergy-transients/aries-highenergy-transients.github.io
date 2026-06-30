@@ -30,15 +30,33 @@ sections:
 
   - block: markdown
     content:
-      title: "About Our Group"
+      title: "Our Research Areas"
       subtitle: "Decoding cosmic transients"
       text: |
-        The High Energy Astrophysics Group at ARIES is at the forefront of time-domain astronomy in India. Our work spans:
-        
-        *   **Gamma-Ray Bursts & Relativistic Jets:** Probing the physics of prompt emission, jet dynamics, and afterglow behavior.
-        *   **Supernovae & Stellar Evolution:** Observational campaigns of core-collapse events, thermonuclear explosions, and fast-evolving transients.
-        *   **Multi-Messenger Astronomy:** Hunting and studying the electromagnetic counterparts (Kilonovae) of binary compact mergers.
-        *   **Sky Surveys:** Harnessing wide-field imaging and high-cadence monitoring with the 4m International Liquid Mirror Telescope (ILMT) and the 3.6m Devasthal Optical Telescope (DOT).
+        The High Energy Astrophysics Group at ARIES is at the forefront of time-domain astronomy in India. We investigate the most energetic stellar explosions and survey the deep sky:
+
+        <div class="research-grid">
+          <div class="research-card">
+            <div class="research-icon">🚀</div>
+            <h3>Gamma-Ray Bursts & Relativistic Jets</h3>
+            <p>Probing prompt emission mechanisms, relativistic shock wave physics, and multi-wavelength afterglow emission.</p>
+          </div>
+          <div class="research-card">
+            <div class="research-icon">⭐</div>
+            <h3>Supernovae & Stellar Death</h3>
+            <p>Monitoring core-collapse and thermonuclear explosions to map stellar mass-loss, envelope physics, and progenitor stars.</p>
+          </div>
+          <div class="research-card">
+            <div class="research-icon">🌌</div>
+            <h3>Kilonovae & Multi-Messenger Astronomy</h3>
+            <p>Rapid optical/infrared follow-up of binary compact mergers to study neutron star ejecta and r-process nucleosynthesis.</p>
+          </div>
+          <div class="research-card">
+            <div class="research-icon">🔭</div>
+            <h3>Sky Surveys & Time-Domain Pipelines</h3>
+            <p>Harnessing the 4m International Liquid Mirror Telescope (ILMT) and developing machine learning difference-imaging pipelines.</p>
+          </div>
+        </div>
     design:
       columns: '1'
       spacing:

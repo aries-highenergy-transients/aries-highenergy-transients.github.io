@@ -25,10 +25,6 @@ main:
     url: /news/
     weight: 50
 
-  - name: Facilities
-    url: /facilities/
-    weight: 60
-
   - name: Contact
     url: /contact/
     weight: 70

@@ -1,42 +1,48 @@
 ---
-title: Research
+title: Research Highlights
 type: page
 ---
 
-# Our Research
+# Research Highlights
 
-The High Energy Astrophysics Group at ARIES studies the most extreme and dynamic phenomena in the Universe. By combining high-cadence optical, near-infrared, and X-ray observations with theoretical modeling, we seek to understand the physics of stellar explosions, relativistic outflows, and multi-messenger transients.
-
----
-
-## 1. Gamma-Ray Bursts (GRBs) & Afterglow Physics
-
-Gamma-Ray Bursts are the most luminous electromagnetic explosions in the cosmos, marking the birth of black holes or magnetars. Our work focuses on:
-*   **Prompt Emission Analysis:** Modeling the energetic prompt gamma-rays to understand the initial explosion mechanism and relativistic jet formation.
-*   **Multi-Wavelength Afterglows:** Analyzing the fading afterglow from X-ray to radio wavelengths. We model synchrotron emission to constrain the microphysical parameters of relativistic shocks, jet collimation angles, and circumburst environments.
-*   **Very High Energy (VHE) Emission:** Studying the sub-TeV emission from GRBs (such as GRB 190114C) detected by Cherenkov telescopes to probe inverse Compton processes.
+Below is a collection of recent publications from the members of the ARIES High Energy Astrophysics Group as lead authors, highlighting their key findings and scientific results.
 
 ---
 
-## 2. Supernovae & Stellar Death
-
-Supernovae represent the cataclysmic endpoints of stellar evolution. We lead observational campaigns to study:
-*   **Core-Collapse Supernovae (Type II, Ib/c, Ibn):** Probing the progenitor properties, envelope composition, mass-loss history, and circumstellar interaction of massive stars before explosion.
-*   **Type Iax Supernovae:** Investigating peculiar thermonuclear stellar explosions (e.g., SN 2014dt, SN 2024pxl) to test progenitor models and explosion mechanism diversity.
-*   **Early-Phase Observations:** Catching supernovae within hours of explosion to model the shock-cooling envelope peak and constrain progenitor radii.
-
----
-
-## 3. Kilonovae & Multi-Messenger Astronomy
-
-The detection of gravitational waves from binary neutron star mergers (such as GW170817) has opened a new window into astrophysics. Our group actively participates in:
-*   **Electromagnetic Follow-ups:** Rapid optical/infrared imaging to identify and characterize Kilonovae—transients powered by the radioactive decay of heavy elements synthesized via r-process nucleosynthesis.
-*   **GW-EM Connections:** Correlating electromagnetic signatures with gravitational wave parameters to constrain the neutron star equation of state and the ejecta properties.
+### 1. Early interaction signatures and an extended plateau phase in Type II SN 2020aze
+* **Authors:** Bhavya Ailawadhi, R. Dastidar, Kuntal Misra, et al.
+* **Journal:** *Monthly Notices of the Royal Astronomical Society* (2026) [[DOI](https://doi.org/10.1093/mnras/stag875)]
+* **Highlights:**
+  * Photometric and spectroscopic study of the Type II supernova SN 2020aze, showing strong circumstellar interaction in the early phases.
+  * Found that the progenitor star underwent major mass-loss events shortly before core collapse.
+  * The light curve exhibits an extended plateau phase powered by shock-interaction energy, which repowers the expanding ejecta.
 
 ---
 
-## 4. Large Surveys & Time-Domain pipelines
+### 2. Probing Supernova Diversity Through High-Cadence Optical Observations
+* **Authors:** Kuntal Misra, Bhavya Ailawadhi, Raya Dastidar, Monalisa Dubey, Naveen Dukiya, et al.
+* **Journal:** *Universe* (2025) [[DOI](https://doi.org/10.3390/universe11110361)]
+* **Highlights:**
+  * Analyzed a broad sample of core-collapse and thermonuclear supernovae observed using the 3.6m Devasthal Optical Telescope (DOT) and 1.3m Devasthal Fast Optical Telescope (DFOT).
+  * Evaluated physical parameters (progenitor radii, ejecta masses, synthesized nickel) across various classes (Type IIP, IIb, Ibn, and Iax SNe).
+  * Demonstrated the critical role of early-phase high-cadence monitoring in understanding shock-cooling envelopes and stellar progenitors.
 
-With the commission of the **4m International Liquid Mirror Telescope (ILMT)** at Devasthal, we are entering the era of big-data astronomy.
-*   **Pipeline Development:** Designing automated data reduction, astrometric, and photometric calibration pipelines for large-format CCD detectors.
-*   **Transient Discovery:** Developing machine learning and difference-imaging pipelines to discover and classify variable stars, active galactic nuclei (AGN), supernovae, and space debris in the ILMT survey strip.
+---
+
+### 3. PyLMT: A transient detection pipeline for the 4-m International Liquid Mirror Telescope
+* **Authors:** Kumar Pranshu, et al.
+* **Journal:** *Monthly Notices of the Royal Astronomical Society* (2025) [[DOI](https://doi.org/10.1093/mnras/staf206)]
+* **Highlights:**
+  * Developed the automated PyLMT transient detection pipeline for the first liquid mirror telescope dedicated to astronomy (ILMT, Devasthal).
+  * Implemented high-precision image subtraction and difference-imaging techniques, optimizing transient detection down to faint magnitudes.
+  * Built a machine learning classifier to filter out image subtraction artifacts, enabling rapid discovery and follow-up of supernovae, GRB afterglows, and variable stars.
+
+---
+
+### 4. Probing the circumstellar environment of the highly luminous Type IIn Supernova ASASSN-14il
+* **Authors:** Naveen Dukiya, Kuntal Misra, et al.
+* **Journal:** *The Astrophysical Journal* (2024) [[DOI](https://doi.org/10.3847/1538-4357/ad7e11)]
+* **Highlights:**
+  * Detailed multi-wavelength (optical, near-infrared, and X-ray) modeling of the extremely bright Type IIn supernova ASASSN-14il.
+  * Mapped the dense circumstellar medium (CSM) surrounding the progenitor star.
+  * Discovered that the massive progenitor star experienced severe eruptive mass-loss episodes during its final evolutionary stages, forming nested gas shells that repowered the blast wave.

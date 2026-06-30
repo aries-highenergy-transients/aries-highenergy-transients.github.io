@@ -453,9 +453,10 @@
      --------------------------------------------------------- */
   .lead-card {
     display: flex !important;
-    align-items: flex-start !important;
-    gap: 2rem !important;
-    flex-wrap: wrap !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    gap: 1.5rem !important;
     max-width: 50rem !important;
     margin-left: auto !important;
     margin-right: auto !important;
@@ -468,6 +469,18 @@
     border: 1px solid rgba(245, 158, 11, 0.3) !important;
     box-shadow: 0 15px 35px -12px rgba(0, 0, 0, 0.6), 0 0 15px 2px rgba(245, 158, 11, 0.04) !important;
     transition: all 0.3s ease !important;
+  }
+
+  @media (min-width: 600px) {
+    .lead-card {
+      flex-direction: row !important;
+      align-items: flex-start !important;
+      text-align: left !important;
+      gap: 2.5rem !important;
+    }
+    .lead-card > div {
+      flex: 1 !important;
+    }
   }
 
   html:not(.dark) .lead-card {
@@ -503,6 +516,53 @@
     font-size: 1.85rem !important;
     font-family: 'Space Grotesk', sans-serif !important;
     font-weight: 700 !important;
+  }
+
+  /* ---------------------------------------------------------
+     RESEARCH GRID STYLING
+     --------------------------------------------------------- */
+  .research-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)) !important;
+    gap: 1.5rem !important;
+    margin-top: 1.5rem !important;
+  }
+  .research-card {
+    background: linear-gradient(135deg, rgba(22, 28, 45, 0.6) 0%, rgba(10, 15, 30, 0.8) 100%) !important;
+    backdrop-filter: blur(8px) !important;
+    padding: 1.75rem !important;
+    border-radius: 16px !important;
+    border: 1px solid rgba(245, 158, 11, 0.15) !important;
+    transition: all 0.3s ease !important;
+    text-align: left !important;
+  }
+  html:not(.dark) .research-card {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.85) 0%, rgba(241, 245, 249, 0.9) 100%) !important;
+    border-color: rgba(245, 158, 11, 0.2) !important;
+  }
+  .research-card:hover {
+    transform: translateY(-5px) !important;
+    border-color: rgba(245, 158, 11, 0.4) !important;
+    box-shadow: 0 10px 20px -10px rgba(245, 158, 11, 0.15) !important;
+  }
+  .research-icon {
+    font-size: 2rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .research-card h3 {
+    margin-top: 0 !important;
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+  }
+  .research-card p {
+    font-size: 0.95rem !important;
+    color: #94a3b8 !important;
+    line-height: 1.5 !important;
+    margin-bottom: 0 !important;
+  }
+  html:not(.dark) .research-card p {
+    color: #475569 !important;
   }
 
   /* ---------------------------------------------------------
@@ -872,6 +932,93 @@
   html:not(.dark) .scholar-modal-pubs-first-content li a:hover,
   html:not(.dark) .scholar-modal-pubs-contrib-content li a:hover {
     color: #0369a1 !important;
+  }
+
+  /* ---------------------------------------------------------
+     ALUMNI LIST STYLING
+     --------------------------------------------------------- */
+  .alumni-grid {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 1.5rem !important;
+    margin-top: 2rem !important;
+  }
+  .alumni-card {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+    gap: 1.5rem !important;
+    background: linear-gradient(135deg, rgba(22, 28, 45, 0.4) 0%, rgba(10, 15, 30, 0.6) 100%) !important;
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
+    padding: 1.5rem !important;
+    border-radius: 16px !important;
+    border: 1px solid rgba(245, 158, 11, 0.1) !important;
+    transition: all 0.3s ease !important;
+  }
+  @media (min-width: 600px) {
+    .alumni-card {
+      flex-direction: row !important;
+      align-items: flex-start !important;
+      text-align: left !important;
+      gap: 2rem !important;
+    }
+  }
+  html:not(.dark) .alumni-card {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.8) 0%, rgba(241, 245, 249, 0.85) 100%) !important;
+    border-color: rgba(245, 158, 11, 0.15) !important;
+  }
+  .alumni-card:hover {
+    border-color: rgba(245, 158, 11, 0.3) !important;
+    box-shadow: 0 10px 20px -10px rgba(245, 158, 11, 0.1) !important;
+  }
+  .alumni-img {
+    border-radius: 12px !important;
+    width: 100px !important;
+    height: 120px !important;
+    object-fit: cover !important;
+  }
+  .alumni-info {
+    flex: 1 !important;
+  }
+  .alumni-card h4 {
+    margin-top: 0 !important;
+    margin-bottom: 0.25rem !important;
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
+    font-family: 'Space Grotesk', sans-serif !important;
+  }
+  .alumni-role {
+    font-size: 0.9rem !important;
+    color: #f59e0b !important;
+    font-weight: 600 !important;
+    margin-bottom: 0.5rem !important;
+  }
+  .alumni-thesis, .alumni-current {
+    font-size: 0.95rem !important;
+    margin-bottom: 0.25rem !important;
+    line-height: 1.4 !important;
+  }
+  .alumni-thesis strong, .alumni-current strong {
+    color: #cbd5e1 !important;
+  }
+  html:not(.dark) .alumni-thesis strong, html:not(.dark) .alumni-current strong {
+    color: #334155 !important;
+  }
+
+  .research-highlight-img {
+    display: block !important;
+    max-width: 100% !important;
+    height: auto !important;
+    margin: 2rem auto !important;
+    border-radius: 12px !important;
+    border: 1px solid rgba(245, 158, 11, 0.2) !important;
+    box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5) !important;
+  }
+  html:not(.dark) .research-highlight-img {
+    border-color: rgba(245, 158, 11, 0.3) !important;
+    box-shadow: 0 10px 25px -10px rgba(0, 0, 0, 0.15) !important;
   }
 </style>
 

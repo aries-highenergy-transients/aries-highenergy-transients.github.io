@@ -409,19 +409,70 @@ Beyond academics, I have a keen interest in nature photography and traveling. Yo
 
 Our former members have moved on to exciting academic opportunities worldwide:
 
-*   **Dr. Anjasha Gangopadhyay** (Former PhD Student)
-    *   *Research Topic:* Multi-wavelength studies of core-collapse supernovae and transients.
-    *   *Current Affiliation:* Postdoctoral Researcher, Hiroshima University, Japan.
-*   **Dr. Ankur Ghosh** (Former PhD Student)
-    *   *Research Topic:* Multi-wavelength emission, environment, and host galaxies of Gamma-Ray Bursts (GRBs).
-    *   *Current Affiliation:* Postdoctoral Researcher, University of Johannesburg, South Africa.
-*   **Dr. Bhavya Ailawadhi** (Former PhD Student)
-    *   *Research Topic:* Photometric and spectroscopic characterization of Type II core-collapse supernovae (CCSNe) and development of automated data processing pipelines for the 4-m ILMT survey.
-    *   *Current Affiliation:* Postdoctoral Fellow, Physical Research Laboratory (PRL), India.
-*   **Dr. Dimple Panchal** (Former PhD Student)
-    *   *Research Topic:* Multi-wavelength analysis of Gamma-Ray Bursts (GRBs), data-driven study of GRB diversity, and characterization of astronomical instrumentation for the 3.6m DOT.
-    *   *Current Affiliation:* Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK.
-*   **Dr. Mridweeka Singh** (Collaborator / Former Researcher)
-    *   *Research Topic:* Photometry and spectroscopy of peculiar Type Iax supernovae.
-*   **Dr. R. Dastidar** (Collaborator / Former Scholar)
-    *   *Research Topic:* Observational properties of core-collapse supernovae.
+<div class="alumni-grid">
+  <!-- Alumnus 1 -->
+  <div class="alumni-card">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Anjasha Gangopadhyay" class="alumni-img">
+    <div class="alumni-info">
+      <h4>1. Dr. Anjasha Gangopadhyay</h4>
+      <p class="alumni-role">PhD (2020) • Advisor: Dr. Kuntal Misra</p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Exploring the physical scenario of the stripped envelope and the interacting supernovae"</em></p>
+      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Researcher, Hiroshima University, Japan</p>
+    </div>
+  </div>
+
+  <!-- Alumnus 2 -->
+  <div class="alumni-card">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Ankur Ghosh" class="alumni-img">
+    <div class="alumni-info">
+      <h4>2. Dr. Ankur Ghosh</h4>
+      <p class="alumni-role">PhD (2023) • Advisor: Dr. Amitesh Omar</p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of GRBs - on aspects of multi-wavelength emission, environment and host galaxies"</em></p>
+      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Researcher, University of Johannesburg, South Africa</p>
+    </div>
+  </div>
+
+  <!-- Alumnus 3 -->
+  <div class="alumni-card">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Bhavya Ailawadhi" class="alumni-img">
+    <div class="alumni-info">
+      <h4>3. Dr. Bhavya Ailawadhi</h4>
+      <p class="alumni-role">PhD (2024) • Advisor: Dr. Kuntal Misra</p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Probing the harbingers of exotic astrophysical transients"</em></p>
+      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Fellow, Physical Research Laboratory (PRL), India</p>
+    </div>
+  </div>
+
+  <!-- Alumnus 4 -->
+  <div class="alumni-card">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Dimple Panchal" class="alumni-img">
+    <div class="alumni-info">
+      <h4>4. Dr. Dimple Panchal</h4>
+      <p class="alumni-role">PhD (2024) • Advisor: Dr. Kuntal Misra</p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Multi-wavelength Studies of Gamma Ray Bursts (GRBs) and Associated Counterparts"</em></p>
+      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK</p>
+    </div>
+  </div>
+
+  <!-- Alumnus 5 -->
+  <div class="alumni-card">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Mridweeka Singh" class="alumni-img">
+    <div class="alumni-info">
+      <h4>5. Dr. Mridweeka Singh</h4>
+      <p class="alumni-role">Former Scholar • PhD (2019)</p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Optical studies of hydrogen deficient supernovae"</em></p>
+      <p class="alumni-current"><strong>Research Focus:</strong> Photometry and spectroscopy of peculiar Type Iax supernovae</p>
+    </div>
+  </div>
+
+  <!-- Alumnus 6 -->
+  <div class="alumni-card">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Raya Dastidar" class="alumni-img">
+    <div class="alumni-info">
+      <h4>6. Dr. Raya Dastidar</h4>
+      <p class="alumni-role">Former Scholar • PhD (2020)</p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of core-collapse supernovae and their progenitors"</em></p>
+      <p class="alumni-current"><strong>Research Focus:</strong> Observational properties of core-collapse supernovae</p>
+    </div>
+  </div>
+</div>
