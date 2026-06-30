@@ -332,6 +332,77 @@ Beyond academics, I have a keen interest in nature photography and traveling. Yo
     </div>
   </div>
 
+  <!-- Scholar 8: Divyanshu Janghel -->
+  <div class="scholar-card" onclick="openScholarModal(this)">
+    <div class="scholar-header">
+      <img src="/media/Divyanshu.jpg" alt="Divyanshu Janghel" class="scholar-img">
+      <div>
+        <h4 class="scholar-name">Divyanshu Janghel</h4>
+        <p class="scholar-role">Junior Research Fellow (JRF)</p>
+        <p class="scholar-bio">
+          Joined the group in July 2023. Conducting research on cosmic transients and supernovae.
+        </p>
+      </div>
+    </div>
+    <div class="scholar-footer">
+      <span>Email: <a href="mailto:divyanshu@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">divyanshu@aries.res.in</a></span>
+    </div>
+    <div class="scholar-details-hidden" style="display: none;">
+      <div class="modal-focus">Conducting research on cosmic transients, focusing on high-cadence optical observations of supernovae.</div>
+      <div class="modal-interests">Supernovae, Transients, Time-domain astronomy</div>
+      <div class="modal-bio"></div>
+      <div class="modal-joined">2023</div>
+      <div class="modal-pubs-first">
+        <ul>
+          <li>None yet</li>
+        </ul>
+      </div>
+      <div class="modal-pubs-contrib">
+        <ul>
+          <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scholar 9: Sarvesh Kumar Yadav -->
+  <div class="scholar-card" onclick="openScholarModal(this)">
+    <div class="scholar-header">
+      <img src="/media/sarvesh.jpg" alt="Sarvesh Kumar Yadav" class="scholar-img">
+      <div>
+        <h4 class="scholar-name">Sarvesh Kumar Yadav</h4>
+        <p class="scholar-role">M.Tech-Ph.D. Student</p>
+        <p class="scholar-bio">
+          Joined the group in July 2022. Working on transient detection and machine learning classification in astronomical surveys.
+        </p>
+      </div>
+    </div>
+    <div class="scholar-footer">
+      <span>Email: <a href="mailto:sarvesh@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">sarvesh@aries.res.in</a></span>
+      <div class="scholar-social-links">
+        <a href="https://orcid.org/0009-0005-3844-3426" target="_blank" rel="noopener" class="scholar-social-icon" title="ORCID" onclick="event.stopPropagation()">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" style="width: 16px; height: 16px; fill: currentColor;"><path d="M256,128c0,70.7-57.3,128-128,128S0,198.7,0,128S57.3,0,128,0S256,57.3,256,128z M81.8,77c-5.5,0-10.1,4.5-10.1,10.1c0,5.6,4.5,10.1,10.1,10.1c5.6,0,10.1-4.5,10.1-10.1C91.9,81.5,87.4,77,81.8,77z M87.1,106.6H76.6v80.2h10.5V106.6z M162.2,106.6H123v80.2h11.7v-26c0-7.8,4.1-12,12.7-12c8.2,0,11.2,5.7,11.2,12.1v25.9h11.7V144c0-21.7-11.4-38.3-32.9-38.3c-15.6,0-23.7,8.2-27.4,14v-13H87.1v80.2h10.5v-31c0-22.3,10.5-35.6,31.7-35.6c19.1,0,21.2,13.7,21.2,30.3v36.3h11.7V155.6C198.7,126.8,187,106.6,162.2,106.6z"/></svg>
+        </a>
+      </div>
+    </div>
+    <div class="scholar-details-hidden" style="display: none;">
+      <div class="modal-focus">Working on automated transient detection and the application of machine learning (transfer learning) to classify optical transients in survey datasets.</div>
+      <div class="modal-interests">Transient detection, Machine Learning, Surveys, Time-domain astronomy</div>
+      <div class="modal-bio"></div>
+      <div class="modal-joined">2022</div>
+      <div class="modal-pubs-first">
+        <ul>
+          <li>None yet</li>
+        </ul>
+      </div>
+      <div class="modal-pubs-contrib">
+        <ul>
+          <li><strong>Transfer learning for transient search with small-field optical survey telescopes</strong>, RAS Techniques and Instruments (2026) [<a href="https://doi.org/10.1093/rasti/rzag044" target="_blank" rel="noopener">DOI</a>]</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 ---
