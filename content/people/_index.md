@@ -153,6 +153,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
         <ul>
           <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1014" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2023zcu: Photometric and spectroscopic analysis of a Type IIP supernova from rise to nebular phase</strong>, The Astrophysical Journal (2025) [<a href="https://doi.org/10.3847/1538-4357/ae3c7e" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>A Year-long Representation of the ILMT Observations in Different Coordinate Systems</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11913" target="_blank" rel="noopener">DOI</a>]</li>
         </ul>
       </div>
       <div class="modal-pubs-contrib">
@@ -325,6 +326,12 @@ Our former members have moved on to exciting academic opportunities worldwide:
 *   **Dr. Anjasha Gangopadhyay** (Former PhD Student)
     *   *Research Topic:* Multi-wavelength studies of core-collapse supernovae and transients.
     *   *Current Affiliation:* Postdoctoral Researcher, Hiroshima University, Japan.
+*   **Dr. Ankur Ghosh** (Former PhD Student)
+    *   *Research Topic:* Multi-wavelength emission, environment, and host galaxies of Gamma-Ray Bursts (GRBs).
+    *   *Current Affiliation:* Postdoctoral Researcher, University of Johannesburg, South Africa.
+*   **Dr. Bhavya Ailawadhi** (Former PhD Student)
+    *   *Research Topic:* Photometric and spectroscopic characterization of Type II core-collapse supernovae (CCSNe) and development of automated data processing pipelines for the 4-m ILMT survey.
+    *   *Current Affiliation:* Postdoctoral Fellow, Physical Research Laboratory (PRL), India.
 *   **Dr. Dimple Panchal** (Former PhD Student)
     *   *Research Topic:* Multi-wavelength analysis of Gamma-Ray Bursts (GRBs), data-driven study of GRB diversity, and characterization of astronomical instrumentation for the 3.6m DOT.
     *   *Current Affiliation:* Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK.
