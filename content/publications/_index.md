@@ -8,7 +8,7 @@ type: page
 
 To view the publications for a specific year, click on the year headers below.
 
-<details open>
+<details>
   <summary style="font-size: 1.5rem; font-weight: bold; cursor: pointer; margin: 1rem 0; color: #f59e0b;">2026</summary>
   <ul style="line-height: 1.6; margin-left: 1.5rem;">
     <li><strong>Ailawadhi, B.</strong>, <strong>Dastidar, R.</strong>, <strong>Misra, K.</strong>, et al., 2026, MNRAS, 549, stag875. Early interaction signatures and an extended plateau phase in Type II SN 2020aze. [<a href="https://doi.org/10.1093/mnras/stag875" target="_blank" rel="noopener">DOI</a>]</li>
@@ -21,7 +21,7 @@ To view the publications for a specific year, click on the year headers below.
   </ul>
 </details>
 
-<details open>
+<details>
   <summary style="font-size: 1.5rem; font-weight: bold; cursor: pointer; margin: 1rem 0; color: #f59e0b;">2025</summary>
   <ul style="line-height: 1.6; margin-left: 1.5rem;">
     <li><strong>Misra, K.</strong>, <strong>Ailawadhi, B.</strong>, <strong>Dastidar, R.</strong>, <strong>Dubey, M.</strong>, <strong>Dukiya, N.</strong>, et al., 2025, Universe, 11, 361. Probing Supernova Diversity Through High-Cadence Optical Observations. [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
