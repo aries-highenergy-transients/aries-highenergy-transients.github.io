@@ -57,7 +57,7 @@ To view the publications for a specific year, click on the year headers below.
     <li><strong>Dimple</strong>, <strong>Misra, K.</strong>, <strong>Ghosh, A.</strong>, et al., 2022, J. Astrophys. Astron., 43, 39. GRB 210217A: a short or a long GRB? [<a href="https://doi.org/10.1007/s12036-022-09822-x" target="_blank" rel="noopener">DOI</a>]</li>
     <li><strong>Dukiya, N.</strong>, et al., 2022, JAI, 11, 22400013. Astrometric and Photometric Standard Candidates for the Upcoming 4-m International Liquid Mirror Telescope Survey. [<a href="https://doi.org/10.1142/S2251171722400013" target="_blank" rel="noopener">DOI</a>]</li>
     <li><strong>Ghosh, A.</strong>, et al., 2022, J. Astrophys. Astron., 43, 66. Modeling the late-time merger ejecta emission in short gamma ray bursts. [<a href="https://doi.org/10.1007/s12036-022-09860-5" target="_blank" rel="noopener">DOI</a>]</li>
-    <li><strong>Misra, K.</strong>, et al., 2022, J. Astrophys. Astron., 43, 82. Photometric studies on the host galaxies of gamma-ray bursts using 3.6m Devasthal optical telescope. [<a href="https://doi.org/10.1007/s12036-022-09865-0" target="_blank" rel="noopener">DOI</a>]</li>
+    <li>Gupta, R., ... <strong>Misra, K.</strong>, et al., 2022, J. Astrophys. Astron., 43, 82. Photometric studies on the host galaxies of gamma-ray bursts using 3.6m Devasthal optical telescope. [<a href="https://doi.org/10.1007/s12036-022-09865-0" target="_blank" rel="noopener">DOI</a>]</li>
   </ul>
 </details>
 
