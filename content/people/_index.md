@@ -67,6 +67,7 @@ We have talented research scholars carrying out advanced research on high-energy
       </div>
       <div class="modal-pubs-contrib">
         <ul>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2021foa: the bridge between SN IIn and Ibn</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf187" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1014" target="_blank" rel="noopener">DOI</a>]</li>
@@ -120,6 +121,7 @@ We have talented research scholars carrying out advanced research on high-energy
       </div>
       <div class="modal-pubs-contrib">
         <ul>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>The 4 m International Liquid Mirror Telescope: construction, operation, and science</strong>, Astronomy & Astrophysics (2025) [<a href="https://doi.org/10.1051/0004-6361/202452667" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11892" target="_blank" rel="noopener">DOI</a>]</li>
@@ -173,6 +175,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       </div>
       <div class="modal-pubs-contrib">
         <ul>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2024aecx: A Nearby Fast-evolving Type IIb Supernova</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
         </ul>
@@ -292,7 +295,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
         <h4 class="scholar-name">Divyanshu Janghel</h4>
         <p class="scholar-role">Senior Research Fellow (SRF)</p>
         <p class="scholar-bio">
-          Joined the group in July 2023. Conducting research on cosmic transients and supernovae.
+          Joined the group in July 2023. Currently working on stripped envelope supernovae Type IIb, Ic, Ib.
         </p>
       </div>
     </div>
@@ -300,8 +303,8 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <span>Email: <a href="mailto:divyanshu@aries.res.in" class="scholar-link" onclick="event.stopPropagation()">divyanshu@aries.res.in</a></span>
     </div>
     <div class="scholar-details-hidden" style="display: none;">
-      <div class="modal-focus">Conducting research on cosmic transients, focusing on high-cadence optical observations of supernovae.</div>
-      <div class="modal-interests">Supernovae, Transients, Time-domain astronomy</div>
+      <div class="modal-focus">Currently working on stripped envelope supernovae Type IIb, Ic, Ib. Focuses on high-cadence optical observations of supernovae.</div>
+      <div class="modal-interests">Supernovae (Type IIb, Ic, Ib), Transients, Time-domain astronomy</div>
       <div class="modal-bio"></div>
       <div class="modal-joined">July 2023</div>
       <div class="modal-pubs-first">
@@ -311,6 +314,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       </div>
       <div class="modal-pubs-contrib">
         <ul>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
         </ul>
       </div>
