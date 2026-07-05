@@ -449,9 +449,9 @@ Our former members have moved on to exciting academic opportunities worldwide:
 
   <!-- Alumnus 4 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Dimple Panchal" class="alumni-img">
+    <img src="/media/avatar_placeholder.png" alt="Dr. Dimple" class="alumni-img">
     <div class="alumni-info">
-      <h4>4. Dr. Dimple Panchal</h4>
+      <h4>4. Dr. Dimple</h4>
       <p class="alumni-role">PhD (2024) • Advisor: Dr. Kuntal Misra</p>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Multi-wavelength Studies of Gamma Ray Bursts (GRBs) and Associated Counterparts"</em></p>
       <p class="alumni-current"><strong>Current:</strong> Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK</p>
