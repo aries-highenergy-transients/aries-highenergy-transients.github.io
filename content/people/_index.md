@@ -471,12 +471,13 @@ Our former members have moved on to exciting academic opportunities worldwide:
 
   <!-- Alumnus 6 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Raya Dastidar" class="alumni-img">
+    <img src="/media/raya.jpg" alt="Dr. Raya Dastidar" class="alumni-img">
     <div class="alumni-info">
-      <h4>6. Dr. Raya Dastidar</h4>
-      <p class="alumni-role">Former Scholar • PhD (2020)</p>
+      <h4>6. <a href="https://rayadastidar.github.io/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(245, 158, 11, 0.4); transition: border-bottom-color 0.2s;" onmouseover="this.style.borderBottomColor='#f59e0b'" onmouseout="this.style.borderBottomColor='rgba(245, 158, 11, 0.4)'">Dr. Raya Dastidar</a></h4>
+      <p class="alumni-role">PhD (2021) • Advisors: Prof. T.R. Seshadri, Dr. Brijesh Kumar</p>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of core-collapse supernovae and their progenitors"</em></p>
-      <p class="alumni-current"><strong>Research Focus:</strong> Observational properties of core-collapse supernovae</p>
+      <p class="alumni-current"><strong>Current:</strong> Post-doctoral Fellow, INAF-Brera</p>
+      <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Supernovae, light curve and spectral modelling, CSM interaction</p>
     </div>
   </div>
 </div>
