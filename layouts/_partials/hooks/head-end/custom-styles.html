@@ -362,9 +362,10 @@
     object-position: top center !important;
     border-radius: 10px !important;
     background-color: #111827 !important;
-    -webkit-mask-image: linear-gradient(to bottom, black 65%, transparent 100%) !important;
-    mask-image: linear-gradient(to bottom, black 65%, transparent 100%) !important;
-    border: none !important;
+    border: 1px solid rgba(245, 158, 11, 0.25) !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+    image-rendering: -webkit-optimize-contrast !important;
+    image-rendering: crisp-edges !important;
     transition: transform 0.3s ease !important;
   }
 
@@ -504,6 +505,8 @@
     width: 150px !important;
     height: 200px !important;
     object-fit: cover !important;
+    image-rendering: -webkit-optimize-contrast !important;
+    image-rendering: crisp-edges !important;
     transition: transform 0.3s ease !important;
   }
 
@@ -751,6 +754,8 @@
     border: 1px solid rgba(245, 158, 11, 0.15) !important;
     margin-bottom: 1.25rem !important;
     box-shadow: 0 10px 25px -10px rgba(0, 0, 0, 0.5) !important;
+    image-rendering: -webkit-optimize-contrast !important;
+    image-rendering: crisp-edges !important;
   }
 
   html:not(.dark) .scholar-modal-photo {
@@ -1004,6 +1009,8 @@
     border: 1px solid rgba(245, 158, 11, 0.25) !important;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
     flex-shrink: 0 !important;
+    image-rendering: -webkit-optimize-contrast !important;
+    image-rendering: crisp-edges !important;
     transition: transform 0.3s ease !important;
   }
 
