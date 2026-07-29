@@ -416,82 +416,137 @@ Our former members have moved on to exciting academic opportunities worldwide:
 <div class="alumni-grid">
   <!-- Alumnus 1 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Anjasha Gangopadhyay" class="alumni-img">
-    <div class="alumni-info">
-      <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.5rem;">
-        <h4 style="margin: 0;">1. Dr. Anjasha Gangopadhyay</h4>
-        <div class="scholar-social-links" style="margin: 0;">
-          <a href="https://orcid.org/0000-0002-3884-5637" target="_blank" rel="noopener" class="scholar-social-icon" title="ORCID">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" style="width: 16px; height: 16px; fill: currentColor;"><path d="M256,128c0,70.7-57.3,128-128,128S0,198.7,0,128S57.3,0,128,0S256,57.3,256,128z M81.8,77c-5.5,0-10.1,4.5-10.1,10.1c0,5.6,4.5,10.1,10.1,10.1c5.6,0,10.1-4.5,10.1-10.1C91.9,81.5,87.4,77,81.8,77z M87.1,106.6H76.6v80.2h10.5V106.6z M162.2,106.6H123v80.2h11.7v-26c0-7.8,4.1-12,12.7-12c8.2,0,11.2,5.7,11.2,12.1v25.9h11.7V144c0-21.7-11.4-38.3-32.9-38.3c-15.6,0-23.7,8.2-27.4,14v-13H87.1v80.2h10.5v-31c0-22.3,10.5-35.6,31.7-35.6c19.1,0,21.2,13.7,21.2,30.3v36.3h11.7V155.6C198.7,126.8,187,106.6,162.2,106.6z"/></svg>
-          </a>
-          <a href="https://scholar.google.com/citations?user=zJbzjXYAAAAJ&hl=en" target="_blank" rel="noopener" class="scholar-social-icon" title="Google Scholar">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 16px; height: 16px; fill: currentColor;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.854 3.64A7.04 7.04 0 0 1 12 10a7.04 7.04 0 0 1 7.146 3.14L24 9.5z"/></svg>
-          </a>
-          <a href="https://www.linkedin.com/in/anjasha-gangopadhyay-961036329/" target="_blank" rel="noopener" class="scholar-social-icon" title="LinkedIn">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 16px; height: 16px; fill: currentColor;"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-          </a>
+    <div>
+      <div class="alumni-header-wrap">
+        <img src="/media/anjasha.jpg" alt="Dr. Anjasha Gangopadhyay" class="alumni-img">
+        <div>
+          <h4>1. Dr. Anjasha Gangopadhyay</h4>
+          <span class="alumni-role-badge">PhD (2021)</span>
+          <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
         </div>
       </div>
-      <p class="alumni-role">PhD (2021) • Advisor: Dr. Kuntal Misra</p>
+      <div class="alumni-current-box">
+        <strong>Current Position:</strong><br>
+        Postdoctoral Fellow, Oskar Klein Center, Stockholm University, Sweden
+      </div>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Observational Study of Core-Collapse Supernova with Diminishing Hydrogen Envelope"</em></p>
-      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Fellow, Oskar Klein Center, Stockholm University, Sweden</p>
-      <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Observational study of core-collapse supernovae (especially CSM interacting), light curve modeling, fast transients, LBVs, and exotic transients.</p>
+      <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Core-collapse supernovae (CSM interacting), light curve modeling, fast transients, LBVs, exotic transients.</p>
+    </div>
+    <div class="alumni-links-bar">
+      <a href="https://orcid.org/0000-0002-3884-5637" target="_blank" rel="noopener" class="alumni-social-btn" title="ORCID Profile">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" style="width: 14px; height: 14px; fill: currentColor;"><path d="M256,128c0,70.7-57.3,128-128,128S0,198.7,0,128S57.3,0,128,0S256,57.3,256,128z M81.8,77c-5.5,0-10.1,4.5-10.1,10.1c0,5.6,4.5,10.1,10.1,10.1c5.6,0,10.1-4.5,10.1-10.1C91.9,81.5,87.4,77,81.8,77z M87.1,106.6H76.6v80.2h10.5V106.6z M162.2,106.6H123v80.2h11.7v-26c0-7.8,4.1-12,12.7-12c8.2,0,11.2,5.7,11.2,12.1v25.9h11.7V144c0-21.7-11.4-38.3-32.9-38.3c-15.6,0-23.7,8.2-27.4,14v-13H87.1v80.2h10.5v-31c0-22.3,10.5-35.6,31.7-35.6c19.1,0,21.2,13.7,21.2,30.3v36.3h11.7V155.6C198.7,126.8,187,106.6,162.2,106.6z"/></svg>
+        <span>ORCID</span>
+      </a>
+      <a href="https://scholar.google.com/citations?user=zJbzjXYAAAAJ&hl=en" target="_blank" rel="noopener" class="alumni-social-btn" title="Google Scholar">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 14px; height: 14px; fill: currentColor;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.854 3.64A7.04 7.04 0 0 1 12 10a7.04 7.04 0 0 1 7.146 3.14L24 9.5z"/></svg>
+        <span>Google Scholar</span>
+      </a>
+      <a href="https://www.linkedin.com/in/anjasha-gangopadhyay-961036329/" target="_blank" rel="noopener" class="alumni-social-btn" title="LinkedIn Profile">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 14px; height: 14px; fill: currentColor;"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+        <span>LinkedIn</span>
+      </a>
     </div>
   </div>
 
   <!-- Alumnus 2 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Ankur Ghosh" class="alumni-img">
-    <div class="alumni-info">
-      <h4>2. Dr. Ankur Ghosh</h4>
-      <p class="alumni-role">PhD (2023) • Advisor: Dr. Amitesh Omar</p>
+    <div>
+      <div class="alumni-header-wrap">
+        <img src="/media/avatar_placeholder.png" alt="Dr. Ankur Ghosh" class="alumni-img">
+        <div>
+          <h4>2. Dr. Ankur Ghosh</h4>
+          <span class="alumni-role-badge">PhD (2023)</span>
+          <p class="alumni-advisor">Advisor: Dr. Amitesh Omar</p>
+        </div>
+      </div>
+      <div class="alumni-current-box">
+        <strong>Current Position:</strong><br>
+        Postdoctoral Researcher, University of Johannesburg, South Africa
+      </div>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of GRBs - on aspects of multi-wavelength emission, environment and host galaxies"</em></p>
-      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Researcher, University of Johannesburg, South Africa</p>
     </div>
   </div>
 
   <!-- Alumnus 3 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Bhavya Ailawadhi" class="alumni-img">
-    <div class="alumni-info">
-      <h4>3. Dr. Bhavya Ailawadhi</h4>
-      <p class="alumni-role">PhD (2024) • Advisor: Dr. Kuntal Misra</p>
+    <div>
+      <div class="alumni-header-wrap">
+        <img src="/media/avatar_placeholder.png" alt="Dr. Bhavya Ailawadhi" class="alumni-img">
+        <div>
+          <h4>3. Dr. Bhavya Ailawadhi</h4>
+          <span class="alumni-role-badge">PhD (2024)</span>
+          <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
+        </div>
+      </div>
+      <div class="alumni-current-box">
+        <strong>Current Position:</strong><br>
+        Postdoctoral Fellow, Physical Research Laboratory (PRL), India
+      </div>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Probing the harbingers of exotic astrophysical transients"</em></p>
-      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Fellow, Physical Research Laboratory (PRL), India</p>
     </div>
   </div>
 
   <!-- Alumnus 4 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Dimple" class="alumni-img">
-    <div class="alumni-info">
-      <h4>4. Dr. Dimple</h4>
-      <p class="alumni-role">PhD (2024) • Advisor: Dr. Kuntal Misra</p>
+    <div>
+      <div class="alumni-header-wrap">
+        <img src="/media/avatar_placeholder.png" alt="Dr. Dimple" class="alumni-img">
+        <div>
+          <h4>4. Dr. Dimple</h4>
+          <span class="alumni-role-badge">PhD (2024)</span>
+          <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
+        </div>
+      </div>
+      <div class="alumni-current-box">
+        <strong>Current Position:</strong><br>
+        Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK
+      </div>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Multi-wavelength Studies of Gamma Ray Bursts (GRBs) and Associated Counterparts"</em></p>
-      <p class="alumni-current"><strong>Current:</strong> Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK</p>
     </div>
   </div>
 
   <!-- Alumnus 5 -->
   <div class="alumni-card">
-    <img src="/media/avatar_placeholder.png" alt="Dr. Mridweeka Singh" class="alumni-img">
-    <div class="alumni-info">
-      <h4>5. Dr. Mridweeka Singh</h4>
-      <p class="alumni-role">Former Scholar • PhD (2019)</p>
+    <div>
+      <div class="alumni-header-wrap">
+        <img src="/media/avatar_placeholder.png" alt="Dr. Mridweeka Singh" class="alumni-img">
+        <div>
+          <h4>5. Dr. Mridweeka Singh</h4>
+          <span class="alumni-role-badge">PhD (2019)</span>
+          <p class="alumni-advisor">Former Scholar</p>
+        </div>
+      </div>
+      <div class="alumni-current-box">
+        <strong>Research Focus:</strong><br>
+        Photometry and spectroscopy of peculiar Type Iax supernovae
+      </div>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Optical studies of hydrogen deficient supernovae"</em></p>
-      <p class="alumni-current"><strong>Research Focus:</strong> Photometry and spectroscopy of peculiar Type Iax supernovae</p>
     </div>
   </div>
 
   <!-- Alumnus 6 -->
   <div class="alumni-card">
-    <img src="/media/raya.jpg" alt="Dr. Raya Dastidar" class="alumni-img">
-    <div class="alumni-info">
-      <h4>6. <a href="https://rayadastidar.github.io/" target="_blank" rel="noopener" style="color: inherit; text-decoration: none; border-bottom: 1px dotted rgba(245, 158, 11, 0.4); transition: border-bottom-color 0.2s;" onmouseover="this.style.borderBottomColor='#f59e0b'" onmouseout="this.style.borderBottomColor='rgba(245, 158, 11, 0.4)'">Dr. Raya Dastidar</a></h4>
-      <p class="alumni-role">PhD (2021) • Advisors: Prof. T.R. Seshadri, Dr. Brijesh Kumar</p>
+    <div>
+      <div class="alumni-header-wrap">
+        <img src="/media/raya.jpg" alt="Dr. Raya Dastidar" class="alumni-img">
+        <div>
+          <h4>6. Dr. Raya Dastidar</h4>
+          <span class="alumni-role-badge">PhD (2021)</span>
+          <p class="alumni-advisor">Advisors: Prof. T.R. Seshadri, Dr. Brijesh Kumar</p>
+        </div>
+      </div>
+      <div class="alumni-current-box">
+        <strong>Current Position:</strong><br>
+        Post-doctoral Fellow, INAF-Brera
+      </div>
       <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of core-collapse supernovae and their progenitors"</em></p>
-      <p class="alumni-current"><strong>Current:</strong> Post-doctoral Fellow, INAF-Brera</p>
       <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Supernovae, light curve and spectral modelling, CSM interaction</p>
+    </div>
+    <div class="alumni-links-bar">
+      <a href="https://rayadastidar.github.io/" target="_blank" rel="noopener" class="alumni-social-btn" title="Personal Website">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 14px; height: 14px; fill: currentColor;"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm-1.047 22.036c-3.879-.691-6.987-3.799-7.678-7.678h3.818c.249 2.92 1.488 5.564 3.86 7.678zm-4.32-9.678H2.766A9.977 9.977 0 0 1 2.05 12c0-1.298.248-2.54.716-3.678h3.867A18.828 18.828 0 0 0 6.55 12c0 1.294.037 2.528.083 3.678zm.557-9.356c.691-3.879 3.799-6.987 7.678-7.678v3.818a14.73 14.73 0 0 0-7.678 3.86zm10.98 0a14.73 14.73 0 0 0-7.678-3.86V.358c3.879.691 6.987 3.799 7.678 7.678zm2.463 9.356a18.828 18.828 0 0 0 .083-3.678c0-1.298-.037-2.532-.083-3.678h3.867c.468 1.138.716 2.38.716 3.678 0 1.298-.248 2.54-.716 3.678h-3.867zm-.557 9.356a14.73 14.73 0 0 0 7.678-3.86h-3.818a14.73 14.73 0 0 0-3.86 7.678z"/></svg>
+        <span>Website</span>
+      </a>
     </div>
   </div>
 </div>
