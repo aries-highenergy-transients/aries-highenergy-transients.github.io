@@ -948,15 +948,21 @@
   .alumni-grid {
     display: grid !important;
     grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
-    gap: 1.5rem !important;
-    margin-top: 2rem !important;
+    gap: 1.15rem !important;
+    margin-top: 1.5rem !important;
     width: 100% !important;
     box-sizing: border-box !important;
   }
 
-  @media (min-width: 768px) {
+  @media (min-width: 640px) {
     .alumni-grid {
       grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+  }
+
+  @media (min-width: 1100px) {
+    .alumni-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
     }
   }
 
@@ -967,11 +973,11 @@
     background: linear-gradient(135deg, rgba(22, 28, 45, 0.65) 0%, rgba(10, 15, 30, 0.85) 100%) !important;
     backdrop-filter: blur(12px) !important;
     -webkit-backdrop-filter: blur(12px) !important;
-    padding: 1.5rem !important;
-    border-radius: 18px !important;
+    padding: 1.1rem 1.15rem !important;
+    border-radius: 14px !important;
     border: 1px solid rgba(245, 158, 11, 0.18) !important;
-    box-shadow: 0 10px 25px -10px rgba(0, 0, 0, 0.4) !important;
-    transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1) !important;
+    box-shadow: 0 8px 20px -8px rgba(0, 0, 0, 0.4) !important;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
     position: relative !important;
     box-sizing: border-box !important;
   }
@@ -979,35 +985,35 @@
   html:not(.dark) .alumni-card {
     background: linear-gradient(135deg, rgba(255, 255, 255, 0.92) 0%, rgba(241, 245, 249, 0.95) 100%) !important;
     border-color: rgba(245, 158, 11, 0.22) !important;
-    box-shadow: 0 10px 20px -8px rgba(0, 0, 0, 0.06) !important;
+    box-shadow: 0 8px 16px -6px rgba(0, 0, 0, 0.05) !important;
   }
 
   .alumni-card:hover {
-    transform: translateY(-6px) !important;
+    transform: translateY(-4px) !important;
     border-color: rgba(249, 115, 22, 0.45) !important;
-    box-shadow: 0 15px 30px -10px rgba(249, 115, 22, 0.22) !important;
+    box-shadow: 0 12px 25px -8px rgba(249, 115, 22, 0.22) !important;
   }
 
   html:not(.dark) .alumni-card:hover {
     border-color: rgba(249, 115, 22, 0.45) !important;
-    box-shadow: 0 15px 25px -10px rgba(249, 115, 22, 0.15) !important;
+    box-shadow: 0 12px 20px -8px rgba(249, 115, 22, 0.15) !important;
   }
 
   .alumni-header-wrap {
     display: flex !important;
-    gap: 1.25rem !important;
+    gap: 0.85rem !important;
     align-items: flex-start !important;
-    margin-bottom: 0.85rem !important;
+    margin-bottom: 0.4rem !important;
   }
 
   .alumni-img {
-    width: 85px !important;
-    height: 105px !important;
+    width: 72px !important;
+    height: 88px !important;
     object-fit: cover !important;
     object-position: top center !important;
-    border-radius: 12px !important;
+    border-radius: 10px !important;
     border: 1px solid rgba(245, 158, 11, 0.25) !important;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25) !important;
     flex-shrink: 0 !important;
     image-rendering: -webkit-optimize-contrast !important;
     image-rendering: crisp-edges !important;
@@ -1019,26 +1025,26 @@
   }
 
   .alumni-card h4 {
-    margin: 0 0 0.35rem 0 !important;
-    font-size: 1.15rem !important;
+    margin: 0 0 0.2rem 0 !important;
+    font-size: 1.05rem !important;
     font-weight: 700 !important;
     font-family: 'Space Grotesk', sans-serif !important;
-    line-height: 1.3 !important;
+    line-height: 1.25 !important;
   }
 
   .alumni-role-badge {
     display: inline-block !important;
-    padding: 0.2rem 0.6rem !important;
+    padding: 0.12rem 0.5rem !important;
     background: rgba(245, 158, 11, 0.12) !important;
     border: 1px solid rgba(245, 158, 11, 0.3) !important;
     color: #f59e0b !important;
     border-radius: 9999px !important;
-    font-size: 0.75rem !important;
+    font-size: 0.7rem !important;
     font-weight: 700 !important;
     font-family: 'Space Grotesk', sans-serif !important;
     text-transform: uppercase !important;
-    letter-spacing: 0.04em !important;
-    margin-bottom: 0.35rem !important;
+    letter-spacing: 0.03em !important;
+    margin-bottom: 0.2rem !important;
   }
 
   html:not(.dark) .alumni-role-badge {
@@ -1047,9 +1053,10 @@
   }
 
   .alumni-advisor {
-    font-size: 0.825rem !important;
+    font-size: 0.8rem !important;
     color: #94a3b8 !important;
-    margin: 0.15rem 0 0 0 !important;
+    margin: 0 !important;
+    line-height: 1.3 !important;
   }
 
   html:not(.dark) .alumni-advisor {
@@ -1059,11 +1066,11 @@
   .alumni-current-box {
     background: rgba(255, 255, 255, 0.03) !important;
     border-left: 3px solid #f97316 !important;
-    padding: 0.6rem 0.8rem !important;
-    border-radius: 0 8px 8px 0 !important;
-    margin: 0.75rem 0 !important;
-    font-size: 0.875rem !important;
-    line-height: 1.4 !important;
+    padding: 0.45rem 0.65rem !important;
+    border-radius: 0 6px 6px 0 !important;
+    margin: 0.45rem 0 !important;
+    font-size: 0.825rem !important;
+    line-height: 1.35 !important;
   }
 
   html:not(.dark) .alumni-current-box {
@@ -1072,9 +1079,9 @@
   }
 
   .alumni-thesis {
-    font-size: 0.875rem !important;
-    margin-bottom: 0.4rem !important;
-    line-height: 1.45 !important;
+    font-size: 0.825rem !important;
+    margin-bottom: 0.25rem !important;
+    line-height: 1.35 !important;
   }
 
   .alumni-thesis strong {
@@ -1088,9 +1095,9 @@
   .alumni-links-bar {
     display: flex !important;
     flex-wrap: wrap !important;
-    gap: 0.5rem !important;
-    margin-top: 1rem !important;
-    padding-top: 0.85rem !important;
+    gap: 0.35rem !important;
+    margin-top: 0.5rem !important;
+    padding-top: 0.5rem !important;
     border-top: 1px solid rgba(255, 255, 255, 0.08) !important;
   }
 
@@ -1101,13 +1108,13 @@
   .alumni-social-btn {
     display: inline-flex !important;
     align-items: center !important;
-    gap: 0.4rem !important;
-    padding: 0.35rem 0.75rem !important;
-    border-radius: 8px !important;
+    gap: 0.3rem !important;
+    padding: 0.25rem 0.55rem !important;
+    border-radius: 6px !important;
     background: rgba(245, 158, 11, 0.1) !important;
     border: 1px solid rgba(245, 158, 11, 0.3) !important;
     color: #f59e0b !important;
-    font-size: 0.785rem !important;
+    font-size: 0.75rem !important;
     font-weight: 600 !important;
     font-family: 'Space Grotesk', sans-serif !important;
     text-decoration: none !important;
