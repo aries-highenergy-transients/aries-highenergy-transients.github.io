@@ -425,12 +425,12 @@ Our former members have moved on to exciting academic opportunities worldwide:
           <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
         </div>
       </div>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Observational Study of Core-Collapse Supernova with Diminishing Hydrogen Envelope"</em></p>
       <div class="alumni-current-box">
         <strong>Current Position:</strong><br>
         Postdoctoral Fellow, Oskar Klein Center, Stockholm University, Sweden
+        <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Core-collapse supernovae (CSM interacting), light curve modeling, fast transients, LBVs, exotic transients.</p>
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Observational Study of Core-Collapse Supernova with Diminishing Hydrogen Envelope"</em></p>
-      <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Core-collapse supernovae (CSM interacting), light curve modeling, fast transients, LBVs, exotic transients.</p>
     </div>
     <div class="alumni-links-bar">
       <a href="https://orcid.org/0000-0002-3884-5637" target="_blank" rel="noopener" class="alumni-social-btn" title="ORCID Profile">
@@ -459,11 +459,11 @@ Our former members have moved on to exciting academic opportunities worldwide:
           <p class="alumni-advisor">Advisor: Dr. Amitesh Omar</p>
         </div>
       </div>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of GRBs - on aspects of multi-wavelength emission, environment and host galaxies"</em></p>
       <div class="alumni-current-box">
         <strong>Current Position:</strong><br>
         Postdoctoral Researcher, University of Johannesburg, South Africa
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of GRBs - on aspects of multi-wavelength emission, environment and host galaxies"</em></p>
     </div>
   </div>
 
@@ -478,11 +478,11 @@ Our former members have moved on to exciting academic opportunities worldwide:
           <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
         </div>
       </div>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Probing the harbingers of exotic astrophysical transients"</em></p>
       <div class="alumni-current-box">
         <strong>Current Position:</strong><br>
         Postdoctoral Fellow, Physical Research Laboratory (PRL), India
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Probing the harbingers of exotic astrophysical transients"</em></p>
     </div>
   </div>
 
@@ -497,11 +497,11 @@ Our former members have moved on to exciting academic opportunities worldwide:
           <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
         </div>
       </div>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Multi-wavelength Studies of Gamma Ray Bursts (GRBs) and Associated Counterparts"</em></p>
       <div class="alumni-current-box">
         <strong>Current Position:</strong><br>
         Postdoctoral Researcher, Institute for Gravitational Wave Astronomy, University of Birmingham, UK
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Multi-wavelength Studies of Gamma Ray Bursts (GRBs) and Associated Counterparts"</em></p>
     </div>
   </div>
 
@@ -516,11 +516,11 @@ Our former members have moved on to exciting academic opportunities worldwide:
           <p class="alumni-advisor">Former Scholar</p>
         </div>
       </div>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Optical studies of hydrogen deficient supernovae"</em></p>
       <div class="alumni-current-box">
         <strong>Research Focus:</strong><br>
         Photometry and spectroscopy of peculiar Type Iax supernovae
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Optical studies of hydrogen deficient supernovae"</em></p>
     </div>
   </div>
 
@@ -535,12 +535,12 @@ Our former members have moved on to exciting academic opportunities worldwide:
           <p class="alumni-advisor">Advisors: Prof. T.R. Seshadri, Dr. Brijesh Kumar</p>
         </div>
       </div>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of core-collapse supernovae and their progenitors"</em></p>
       <div class="alumni-current-box">
         <strong>Current Position:</strong><br>
         Post-doctoral Fellow, INAF-Brera
+        <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Supernovae, light curve and spectral modelling, CSM interaction</p>
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Study of core-collapse supernovae and their progenitors"</em></p>
-      <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Supernovae, light curve and spectral modelling, CSM interaction</p>
     </div>
     <div class="alumni-links-bar">
       <a href="https://rayadastidar.github.io/" target="_blank" rel="noopener" class="alumni-social-btn" title="Personal Website">
