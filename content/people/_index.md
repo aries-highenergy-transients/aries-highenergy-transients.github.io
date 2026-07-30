@@ -509,18 +509,25 @@ Our former members have moved on to exciting academic opportunities worldwide:
   <div class="alumni-card">
     <div>
       <div class="alumni-header-wrap">
-        <img src="/media/avatar_placeholder.png" alt="Dr. Mridweeka Singh" class="alumni-img">
+        <img src="/media/mridweeka.jpg" alt="Dr. Mridweeka Singh" class="alumni-img">
         <div>
           <h4>5. Dr. Mridweeka Singh</h4>
           <span class="alumni-role-badge">PhD (2019)</span>
-          <p class="alumni-advisor">Former Scholar</p>
+          <p class="alumni-advisor">Advisor: Dr. Kuntal Misra</p>
         </div>
       </div>
-      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Optical studies of hydrogen deficient supernovae"</em></p>
+      <p class="alumni-thesis"><strong>Thesis:</strong> <em>"Optical Studies of Hydrogen Deficient Supernovae"</em></p>
       <div class="alumni-current-box">
-        <strong>Research Focus:</strong><br>
-        Photometry and spectroscopy of peculiar Type Iax supernovae
+        <strong>Current Position:</strong><br>
+        Indian Institute of Astrophysics (IIA), Bangalore
+        <p class="alumni-interests" style="font-size: 0.85rem; color: #94a3b8; margin: 0.4rem 0 0 0;"><strong>Research Focus:</strong> Supernovae, progenitor systems, explosion pathways, JWST insights</p>
       </div>
+    </div>
+    <div class="alumni-links-bar">
+      <a href="https://scholar.google.com/citations?user=Pk3S1aMAAAAJ&hl=en" target="_blank" rel="noopener" class="alumni-social-btn" title="Google Scholar">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" style="width: 14px; height: 14px; fill: currentColor;"><path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.854 3.64A7.04 7.04 0 0 1 12 10a7.04 7.04 0 0 1 7.146 3.14L24 9.5z"/></svg>
+        <span>Google Scholar</span>
+      </a>
     </div>
   </div>
 
