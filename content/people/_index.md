@@ -18,7 +18,7 @@ Our group consists of dedicated scientists and research scholars exploring trans
     <p style="margin: 0.2rem 0;"><strong>Scientist-E, ARIES</strong></p>
     <p style="margin: 0.2rem 0; color: #94a3b8;">PhD (2008, ARIES & Kumaun University)</p>
     <p style="margin: 0.5rem 0;"><em>Research Focus:</em> Gamma-Ray Bursts (GRBs), Supernovae, Electromagnetic counterparts of Gravitational Wave sources, Survey Astronomy (ILMT/DOT).</p>
-    <p style="margin: 0.5rem 0;"><a href="mailto:kuntal@aries.res.in" class="scholar-link">kuntal@aries.res.in</a> | <a href="/authors/me/" class="scholar-link" style="font-weight: 600;">Full Profile & Publications →</a></p>
+    <p style="margin: 0.5rem 0;"><a href="mailto:kuntal@aries.res.in" class="scholar-link">kuntal@aries.res.in</a> | <a href="/authors/lead/" class="scholar-link" style="font-weight: 600;">Full Profile & Publications →</a></p>
   </div>
 </div>
 

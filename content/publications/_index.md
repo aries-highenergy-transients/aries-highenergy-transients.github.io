@@ -343,9 +343,3 @@ To view peer-reviewed publications for a specific year, click on the year header
     </details>
   </div>
 </details>
-
----
-
-*For a full, up-to-date list of all peer-reviewed papers and citations, please visit:*
-*   [Google Scholar Profile](https://scholar.google.com/citations?user=Iun6aNoAAAAJ&hl=en&oi=ao)
-*   [NASA ADS Library](https://ui.adsabs.harvard.edu/search/q=author%3A%22Misra%2C%20Kuntal%22)

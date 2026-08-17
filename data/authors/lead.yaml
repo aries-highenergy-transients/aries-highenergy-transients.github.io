@@ -1,6 +1,6 @@
 schema: hugoblox/author/v1
-slug: me
-avatar_filename: me.png
+slug: lead
+avatar_filename: lead.png
 is_owner: true
 name:
   display: Dr. Kuntal Misra
@@ -30,6 +30,8 @@ links:
     url: https://scholar.google.com/citations?hl=en&user=Iun6aNoAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-1637-267X
+  - icon: academicons/ads
+    url: https://ui.adsabs.harvard.edu/search/q=author%3A%22Misra%2C%20Kuntal%22
 
 interests:
   - Gamma-Ray Bursts (GRBs) & Afterglows

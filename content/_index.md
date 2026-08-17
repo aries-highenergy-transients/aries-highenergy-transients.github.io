@@ -74,7 +74,7 @@ sections:
             <p style="margin: 0.2rem 0;"><strong>Scientist-E, ARIES</strong></p>
             <p style="margin: 0.2rem 0; color: #94a3b8;">PhD (2008, ARIES & Kumaun University)</p>
             <p style="margin: 0.5rem 0;">Dr. Misra specializes in high-energy astrophysics, cosmic transients, and large surveys. She leads the group's research efforts and serves as the National Astronomy Education Coordinator (NAEC) for India in the International Astronomical Union (IAU).</p>
-            <p style="margin: 0.5rem 0;"><a href="/authors/me/" class="scholar-link" style="font-weight: 600;">Full Profile & Publications →</a></p>
+            <p style="margin: 0.5rem 0;"><a href="/authors/lead/" class="scholar-link" style="font-weight: 600;">Full Profile & Publications →</a></p>
           </div>
         </div>
     design:
