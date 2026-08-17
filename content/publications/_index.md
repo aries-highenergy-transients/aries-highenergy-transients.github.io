@@ -4,9 +4,9 @@ date: 2026-06-24
 type: page
 ---
 
-# Publications
+# Selected Publications
 
-To view peer-reviewed publications for a specific year, click on the year headers below.
+To view the publications for a specific year, click on the year headers below.
 
 <details>
   <summary style="font-size: 1.5rem; font-weight: bold; cursor: pointer; margin: 1rem 0; color: #f59e0b;">2026</summary>
@@ -212,134 +212,136 @@ To view peer-reviewed publications for a specific year, click on the year header
 
 ---
 
-# GCN Circulars & Astronomer's Telegrams
+# GCN Circulars &amp; Astronomer's Telegrams
+
+To view GCN circulars and telegrams for a specific year, click on the year headers below.
 
 <details>
-  <summary style="font-size: 1.5rem; font-weight: bold; cursor: pointer; margin: 1rem 0; color: #3b82f6;">GCN Circulars & Telegrams (2022 – 2026)</summary>
-  <div style="margin-left: 1rem; margin-top: 1rem;">
-    <details style="margin-bottom: 0.75rem;">
-      <summary style="font-size: 1.2rem; font-weight: 600; cursor: pointer; color: #60a5fa;">2026 (21 Circulars)</summary>
-      <ul style="line-height: 1.6; margin-left: 1.5rem; margin-top: 0.5rem;">
-        <li>Gupta, A., <strong>Janghel, D.</strong>, kar, D., Pawar, P., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44993, 1. GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection.</li>
-        <li>Pawar, P., Gupta, A., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44396, 1. GRB 260421B: 3.6m DOT optical observation.</li>
-        <li>Gupta, A., Pawar, P., <strong>Janghel, D.</strong>, Jain, D., Kar, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44348, 1. EP260321A/AT2026gzf: Optical observation from 1.3m DFOT.</li>
-        <li>Gupta, A., Verma, A., Pawar, P., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44271, 1. GRB260411B: 3.6m DOT optical observation.</li>
-        <li>Pawar, P., Gupta, A., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44373, 1. EP260416a: 1.3m DFOT optical observation.</li>
-        <li>Pawar, P., Kar, D., Gupta, A., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44022, 1. GRB 260310A / AT2026fgk: 1.3m DFOT optical observations.</li>
-        <li>Kar, D., Pawar, P., Gupta, A., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 43925, 1. GRB 260303A: 1.3m DFOT optical upper limit (duplicate submission).</li>
-        <li>Gupta, A., Jain, D., Pawar, P., Kar, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 43884, 1. EP260227A: 3.6m DOT optical afterglow detection.</li>
-        <li>Gupta, A., <strong>Pranshu, K.</strong>, Jain, D., Kar, D., Pawar, P., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44051, 1. GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT.</li>
-        <li>Kar, D., Pawar, P., Gupta, A., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 43774, 1. EP260214b: 1.3m DFOT optical upper limit.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Jain, D., Pawar, P., Kar, D., 2026, GRB Coordinates Network, 43665, 1. GRB 260208A: 1.3m DFOT optical detection.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Kar, D., Pawar, P., Jain, D., 2026, GRB Coordinates Network, 43708, 1. GRB260131A/B: 3.6m DOT Optical Observations.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Chand, T., Kar, D., Jain, D., Pawar, P., 2026, GRB Coordinates Network, 43430, 1. EP260116A: 1.3m DFOT optical upper limit.</li>
-        <li>Moskvitin, A., Rumyantsev, V., Volnova, A., Pankov, N., Pozanenko, A., An, T., Liu, Y., <strong>Ghosh, A.</strong>, Razzaque, S., GRB Follow-up Collaboration, 2026, GRB Coordinates Network, 44395, 1. EP260416a: ZTSh R band observations.</li>
-        <li><strong>Dimple</strong>, Gompertz, B., Bochenek, A., Perley, D., O'Neill, D., Malesani, D., Martin-Carrillo, A., 2026, GRB Coordinates Network, 44959, 1. GRB 260610B / AT 2026owq: Liverpool Telescope confirmation of continuing optical rebrightening.</li>
-        <li>Gompertz, B., Malesani, D., <strong>Dimple</strong>, 2026, GRB Coordinates Network, 44843, 1. GRB 260604C: Liverpool Telescope optical detection.</li>
-        <li><strong>Dimple</strong>, Gompertz, B., O'Brien, P., O'Neill, D., Malesani, D., 2026, GRB Coordinates Network, 44646, 1. GRB 260515A: Liverpool Telescope optical detection.</li>
-        <li>Corcoran, G., An, J., van Hoof, A., <strong>Dimple</strong>, et al., 2026, GRB Coordinates Network, 44729, 1. EP260527a / GRB 260527A: NOT optical observations.</li>
-        <li>Pursiainen, M., Malesani, D., Leloudas, G., <strong>Dimple</strong>, Martin-Carrillo, A., Gompertz, B., Perley, D., Pyykkinen, N., 2026, GRB Coordinates Network, 43990, 1. GRB 260310A: NOT optical polarimetry.</li>
-        <li><strong>Dimple</strong>, Gompertz, B., O'Neill, D., Malesani, D., 2026, GRB Coordinates Network, 43661, 1. GRB 260208A: Liverpool Telescope optical detection.</li>
-        <li><strong>Dimple</strong>, Malesani, D., de Ugarte Postigo, A., Saccardi, A., Corcoran, G., Gompertz, B., Izzo, L., Martin-Carrillo, A., Bijavara Seshashayana, S., 2026, GRB Coordinates Network, 43662, 1. GRB 260208A: NOT spectroscopic redshift z = 2.36.</li>
-      </ul>
-    </details>
-    <details style="margin-bottom: 0.75rem;">
-      <summary style="font-size: 1.2rem; font-weight: 600; cursor: pointer; color: #60a5fa;">2025 (48 Circulars)</summary>
-      <ul style="line-height: 1.6; margin-left: 1.5rem; margin-top: 0.5rem;">
-        <li>Gupta, A., Pawar, P., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42916, 1. EP251130A: Optical observation from 1.3m DFOT.</li>
-        <li>Gupta, A., Kar, D., Singh, K., Jain, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 43067, 1. GRB 251205A: 1.3m DFOT optical upper limit.</li>
-        <li>Gupta, A., Jain, D., Pawar, P., Kar, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 43100, 1. GRB 251214B: 1.3m DFOT optical detection.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Ghosh, S., Pawar, P., Kar, D., Jain, D., 2025, GRB Coordinates Network, 43207, 1. GRB 251222A: 1.3m DFOT optical detection.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, <strong>Janghel, D.</strong>, Kar, D., Jain, D., Pawar, P., 2025, GRB Coordinates Network, 43223, 1. EP251220a: 3.6m DOT optical afterglow detection.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Pawar, P., Jain, D., Kar, D., 2025, GRB Coordinates Network, 43224, 1. GRB 251222A: Continued 1.3m DFOT optical observation.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Pawar, P., Jain, D., Kar, D., 2025, GRB Coordinates Network, 43277, 1. GRB 251230A: 1.3m DFOT optical upper limit.</li>
-        <li>Gupta, A., Pawar, P., Jain, D., Kar, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42810, 1. EP251118A: 3.6m DOT optical afterglow detection.</li>
-        <li>Gupta, A., Kar, D., Pawar, P., <strong>Janghel, D.</strong>, Jain, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42813, 1. GRB 251122A/EP251122A: 1.3m DFOT optical detection.</li>
-        <li>Gupta, A., Pawar, P., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42787, 1. EP251118A: 1.3m DFOT optical afterglow detection.</li>
-        <li>Gupta, A., Jain, D., Pawar, P., kar, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42857, 1. GRB 251126A: 1.3m DFOT optical afterglow detection.</li>
-        <li>Gupta, A., <strong>Pranshu, K.</strong>, Kar, D., Jain, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42651, 1. GRB251111A: 1.3m DFOT optical upper limit.</li>
-        <li>Gupta, A., Jain, D., Kar, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42864, 1. GRB251126A: Continued optical observation from 1.3m DFOT.</li>
-        <li>Gupta, A., <strong>Pranshu, K.</strong>, Jain, D., Kar, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42500, 1. GRB251025B: 3.6m DOT Optical Observations.</li>
-        <li>Gupta, A., Ror, A., <strong>Misra, K.</strong>, Pandey, S., 2025, GRB Coordinates Network, 39593, 1. EP250302A: 1.3m DFOT optical afterglow detection.</li>
-        <li>Gupta, A., Ror, A., <strong>Misra, K.</strong>, Pandey, S., 2025, GRB Coordinates Network, 39240, 1. GRB 250205A: 1.3m DFOT optical upper limit.</li>
-        <li>Gupta, A., Ror, A., Mamta, <strong>Misra, K.</strong>, Pandey, S., 2025, GRB Coordinates Network, 38818, 1. GRB 250101A: 1.3m DFOT optical afterglow detection.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 43262, 1. GRB 251230A: Early optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 42545, 1. GRB 251103A: LCO optical observation.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 42261, 1. GRB 251013C: Early and late-time optical counterpart detection by LCO.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 41913, 1. GRB 250920C: Optical counterpart detection by LCO.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 41673, 1. EP 250827B: Detection of supernova counterpart by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 41564, 1. EP250827A: An optical rebrightening was detected by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40322, 1. GRB 250502A: Early optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40263, 1. GRB 250424A: LCO optical observation.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40189, 1. GRB 250419A: LCO optical observation.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40293, 1. EP 250427A: Optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40039, 1. GRB 250403A: Optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 39922, 1. GRB 250329A: Fading optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 39816, 1. EP 250321A: Optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39759, 1. EP 250317B: Fading optical counterpart detection by LCO.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39594, 1. EP 250304A: Optical counterpart detection by LCO.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39425, 1. GRB 250221A: Optical counterpart detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 38779, 1. GRB 250101A: LCO optical counterpart detection.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39077, 1. GRB 250129A: Early afterglow detection by LCO..</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 38995, 1. EP 250108A: Late-time optical observation by LCO.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 38948, 1. GRB 250114A: LCO optical counterpart detection..</li>
-        <li>Gompertz, B., <strong>Dimple</strong>, 2025, GRB Coordinates Network, 41512, 1. GRB 250823A: Liverpool Telescope optical detection.</li>
-        <li><strong>Dimple</strong>, Gompertz, B., Kumar, A., 2025, GRB Coordinates Network, 41442, 1. GRB 250818B: Liverpool Telescope optical detections.</li>
-        <li>Malesani, D., Izzo, L., Martin-Carrillo, A., Corcoran, G., <strong>Dimple</strong>, Saccardi, A., Schneider, B., Xu, D., 2025, GRB Coordinates Network, 41279, 1. GRB 250806A: NOT z-band upper limit and host galaxy candidate.</li>
-        <li>Gompertz, B., <strong>Dimple</strong>, Martin-Carrillo, A., Corcoran, G., 2025, GRB Coordinates Network, 40677, 1. GRB 250610B: LT detection of the optical counterpart.</li>
-        <li>Gompertz, B., <strong>Dimple</strong>, Bochenek, A., 2025, GRB Coordinates Network, 40699, 1. GRB 250610B: Liverpool Telescope continued monitoring.</li>
-        <li>Gompertz, B., <strong>Dimple</strong>, Martin-Carrillo, A., Corcoran, G., Malesani, D., 2025, GRB Coordinates Network, 40634, 1. GRB 250605A: LT optical observations.</li>
-        <li><strong>Dimple</strong>, Gompertz, B., 2025, GRB Coordinates Network, 40238, 1. GRB 250419A: Liverpool Telescope optical upper limit.</li>
-        <li>Martin-Carrillo, A., Schneider, B., de Ugarte Postigo, A., Malesani, D., An, J., Xu, D., Corcoran, G., <strong>Dimple</strong>, Diaz Teodori, M., 2025, GRB Coordinates Network, 40080, 1. GRB 250404A / EP250404a: NOT optical observations.</li>
-        <li>Gompertz, B., <strong>Dimple</strong>, Malesani, D., Levan, A., 2025, GRB Coordinates Network, 38952, 1. GRB 250114B: Liverpool Telescope optical upper limit.</li>
-        <li>Kumar, A., Rawat, N., Buckley, D., Maund, J., Steeghs, D., <strong>Dastidar, R.</strong>, 2025, GRB Coordinates Network, 41106, 1. GRB 250716A: Lesedi Detection of Fading Optical Transient GOTO25eyp.</li>
-        <li>Kumar, A., <strong>Dastidar, R.</strong>, Pignata, G., Steeghs, D., Killestein, T., O'Neill, D., Andrés Pineda García, J., Ramirez, M., 2025, GRB Coordinates Network, 39904, 1. GRB 250327B: further optical observations by LCOGT.</li>
-      </ul>
-    </details>
-    <details style="margin-bottom: 0.75rem;">
-      <summary style="font-size: 1.2rem; font-weight: 600; cursor: pointer; color: #60a5fa;">2024 (12 Circulars)</summary>
-      <ul style="line-height: 1.6; margin-left: 1.5rem; margin-top: 0.5rem;">
-        <li>Gupta, A., Ror, A., Lata, S., Museo, D., <strong>Misra, K.</strong>, Pandey, S., 2024, GRB Coordinates Network, 37893, 1. GRB241025A: 1.3m DFOT optical afterglow detection.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, 2024, GRB Coordinates Network, 36696, 1. GRB240615A: 1.3m DFOT optical upper limit.</li>
-        <li>Ror, A., Gupta, A., Rishi, C., Pandey, S., <strong>Misra, K.</strong>, 2024, GRB Coordinates Network, 36589, 1. GRB 240529A: 1.3m DFOT Optical observations.</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Singh, A., <strong>Dimple</strong>, 2024, GRB Coordinates Network, 36381, 1. GRB 240415A 1.3m DFOT Optical upper limit.</li>
-        <li>Sharma, K., Gupta, A., <strong>Misra, K.</strong>, Joshi, J., Majumdar, P., 2024, The Astronomer's Telegram, 16614, 1. Optical follow-up of FSRQ OP313 using 1.3 m Devasthal Fast Optical Telescope (DFOT).</li>
-        <li>Gupta, A., <strong>Misra, K.</strong>, Dogra, K., <strong>Dimple</strong>, 2024, GRB Coordinates Network, 36406, 1. GRB 240502A: 1.3m DFOT Optical upper limit.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2024, GRB Coordinates Network, 38702, 1. GRB 241228B: LCO optical observation.</li>
-        <li>Chandra, A., Kumar, B., Kumar, T., <strong>Pranshu, K.</strong>, Reddy, B., Kumar, M., Dhami, P., 2024, The Astronomer's Telegram, 16847, 1. Optical follow-up observations of GOTO065054.49+593624.51.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Dukiya, N., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38672, 1. GRB 241029A: LCO optical observation.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38220, 1. GRB 241030A: LCO optical observation.</li>
-        <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38095, 1. GRB 240511A: LCO upper limits.</li>
-        <li><strong>Dimple</strong>, Gompertz, B., Levan, A., Malesani, D., Martin-Carrillo, A., Ravasio, M., Izzo, L., Rossi, A., D'Avanzo, P., Tanvir, N., 2024, GRB Coordinates Network, 38654, 1. GRB 241105A: JWST photometric observations of the host galaxy.</li>
-      </ul>
-    </details>
-    <details style="margin-bottom: 0.75rem;">
-      <summary style="font-size: 1.2rem; font-weight: 600; cursor: pointer; color: #60a5fa;">2023 (7 Circulars)</summary>
-      <ul style="line-height: 1.6; margin-left: 1.5rem; margin-top: 0.5rem;">
-        <li>Ror, A., Kumar, B., Gupta, R., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33939, 1. ZTF23aamxeqf/AT2023jxk: 1.3m DFOT Optical upper limit.</li>
-        <li><strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, Gupta, R., Ror, A., Aryan, A., Pandey, S., 2023, GRB Coordinates Network, 33620, 1. GRB 230414B: 1.3m DFOT Optical observations.</li>
-        <li>Ror, A., Gupta, R., Pandey, S., <strong>Ghosh, A.</strong>, Aryan, A., <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33547, 1. GRB 230328B: 3.6m DOT multiband optical observation.</li>
-        <li>Ror, A., <strong>Ghosh, A.</strong>, Kumar, B., Gupta, R., Aryan, A., <strong>Dimple</strong>, Pandey, S., <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33284, 1. GRB 230204B: 3.6m DOT optical observation.</li>
-        <li>Ror, A., Gupta, R., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33149, 1. GRB 221231A: 3.6m DOT optical upper limit.</li>
-        <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33198, 1. GRB 230116D: 3.6m DOT optical upper limit.</li>
-        <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, Wani, K., <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33237, 1. ZTF23aabmzlp/AT2023azs: 1.3m DFOT optical observations.</li>
-      </ul>
-    </details>
-    <details style="margin-bottom: 0.75rem;">
-      <summary style="font-size: 1.2rem; font-weight: 600; cursor: pointer; color: #60a5fa;">2022 (11 Circulars)</summary>
-      <ul style="line-height: 1.6; margin-left: 1.5rem; margin-top: 0.5rem;">
-        <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 33090, 1. GRB 221218A: 3.6m DOT optical upper limit.</li>
-        <li>Ror, A., Snehlata, Gupta, R., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 32898, 1. GRB 221028A: 1.3m DFOT Optical upper limit.</li>
-        <li>Kumar, H., Teja, R., Bhalerao, V., <strong>Misra, K.</strong>, et al., 2022, The Astronomer's Telegram, 15644, 1. AT2022wgv is a galactic CV.</li>
-        <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, %Dimple, <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 32811, 1. GRB 221009A: 1.3m DFOT Optical Observations.</li>
-        <li>Kumar, A., Gupta, R., Ror, A., Rawat, N., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31868, 1. GRB 220408A: 1.3m DFOT Optical upper limit.</li>
-        <li>Ror, A., Gupta, R., Kumar, A., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31869, 1. GRB 220403B: 1.3m DFOT Optical upper limit.</li>
-        <li>Gupta, R., Ror, A., Kumar, A., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Chand, K., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31793, 1. GRB 220325A: 1.3m DFOT Optical upper limit.</li>
-        <li><strong>Dimple</strong>, Gupta, R., <strong>Ghosh, A.</strong>, <strong>Dukiya, N.</strong>, Kumar, A., Ror, A., Aryan, A., Wani, K., <strong>Misra, K.</strong>, Pandey, S., 2022, GRB Coordinates Network, 31805, 1. ZTF22aaajecp/AT2022cmc: 1.3m DFOT Optical observations.</li>
-        <li><strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Gupta, R., Kumar, A., Ror, A., Panchal, A., <strong>Misra, K.</strong>, Pandey, S., 2022, GRB Coordinates Network, 31384, 1. GRB 220101A: 1.3m DFOT observations.</li>
-        <li>Ror, A., Gupta, R., Kumar, A., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31394, 1. GRB 220101A: continued 1.3m DFOT Optical Observations.</li>
-        <li>Kumar, A., Gupta, R., Ror, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31442, 1. GRB 220101A: continued 1.3m DFOT optical observations of a high-redshift afterglow.</li>
-      </ul>
-    </details>
-  </div>
+  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2026 (21 Circulars)</summary>
+  <ul style="line-height: 1.6; margin-left: 1.5rem;">
+    <li>Gupta, A., <strong>Janghel, D.</strong>, kar, D., Pawar, P., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44993, 1. GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection.</li>
+    <li>Pawar, P., Gupta, A., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44396, 1. GRB 260421B: 3.6m DOT optical observation.</li>
+    <li>Gupta, A., Pawar, P., <strong>Janghel, D.</strong>, Jain, D., Kar, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44348, 1. EP260321A/AT2026gzf: Optical observation from 1.3m DFOT.</li>
+    <li>Gupta, A., Verma, A., Pawar, P., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44271, 1. GRB260411B: 3.6m DOT optical observation.</li>
+    <li>Pawar, P., Gupta, A., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44373, 1. EP260416a: 1.3m DFOT optical observation.</li>
+    <li>Pawar, P., Kar, D., Gupta, A., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44022, 1. GRB 260310A / AT2026fgk: 1.3m DFOT optical observations.</li>
+    <li>Kar, D., Pawar, P., Gupta, A., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 43925, 1. GRB 260303A: 1.3m DFOT optical upper limit (duplicate submission).</li>
+    <li>Gupta, A., Jain, D., Pawar, P., Kar, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 43884, 1. EP260227A: 3.6m DOT optical afterglow detection.</li>
+    <li>Gupta, A., <strong>Pranshu, K.</strong>, Jain, D., Kar, D., Pawar, P., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 44051, 1. GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT.</li>
+    <li>Kar, D., Pawar, P., Gupta, A., Jain, D., <strong>Misra, K.</strong>, 2026, GRB Coordinates Network, 43774, 1. EP260214b: 1.3m DFOT optical upper limit.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Jain, D., Pawar, P., Kar, D., 2026, GRB Coordinates Network, 43665, 1. GRB 260208A: 1.3m DFOT optical detection.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Kar, D., Pawar, P., Jain, D., 2026, GRB Coordinates Network, 43708, 1. GRB260131A/B: 3.6m DOT Optical Observations.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Chand, T., Kar, D., Jain, D., Pawar, P., 2026, GRB Coordinates Network, 43430, 1. EP260116A: 1.3m DFOT optical upper limit.</li>
+    <li>Moskvitin, A., Rumyantsev, V., Volnova, A., Pankov, N., Pozanenko, A., An, T., Liu, Y., <strong>Ghosh, A.</strong>, Razzaque, S., GRB Follow-up Collaboration, 2026, GRB Coordinates Network, 44395, 1. EP260416a: ZTSh R band observations.</li>
+    <li><strong>Dimple</strong>, Gompertz, B., Bochenek, A., Perley, D., O'Neill, D., Malesani, D., Martin-Carrillo, A., 2026, GRB Coordinates Network, 44959, 1. GRB 260610B / AT 2026owq: Liverpool Telescope confirmation of continuing optical rebrightening.</li>
+    <li>Gompertz, B., Malesani, D., <strong>Dimple</strong>, 2026, GRB Coordinates Network, 44843, 1. GRB 260604C: Liverpool Telescope optical detection.</li>
+    <li><strong>Dimple</strong>, Gompertz, B., O'Brien, P., O'Neill, D., Malesani, D., 2026, GRB Coordinates Network, 44646, 1. GRB 260515A: Liverpool Telescope optical detection.</li>
+    <li>Corcoran, G., An, J., van Hoof, A., <strong>Dimple</strong>, et al., 2026, GRB Coordinates Network, 44729, 1. EP260527a / GRB 260527A: NOT optical observations.</li>
+    <li>Pursiainen, M., Malesani, D., Leloudas, G., <strong>Dimple</strong>, Martin-Carrillo, A., Gompertz, B., Perley, D., Pyykkinen, N., 2026, GRB Coordinates Network, 43990, 1. GRB 260310A: NOT optical polarimetry.</li>
+    <li><strong>Dimple</strong>, Gompertz, B., O'Neill, D., Malesani, D., 2026, GRB Coordinates Network, 43661, 1. GRB 260208A: Liverpool Telescope optical detection.</li>
+    <li><strong>Dimple</strong>, Malesani, D., de Ugarte Postigo, A., Saccardi, A., Corcoran, G., Gompertz, B., Izzo, L., Martin-Carrillo, A., Bijavara Seshashayana, S., 2026, GRB Coordinates Network, 43662, 1. GRB 260208A: NOT spectroscopic redshift z = 2.36.</li>
+  </ul>
 </details>
+
+<details>
+  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2025 (48 Circulars)</summary>
+  <ul style="line-height: 1.6; margin-left: 1.5rem;">
+    <li>Gupta, A., Pawar, P., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42916, 1. EP251130A: Optical observation from 1.3m DFOT.</li>
+    <li>Gupta, A., Kar, D., Singh, K., Jain, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 43067, 1. GRB 251205A: 1.3m DFOT optical upper limit.</li>
+    <li>Gupta, A., Jain, D., Pawar, P., Kar, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 43100, 1. GRB 251214B: 1.3m DFOT optical detection.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Ghosh, S., Pawar, P., Kar, D., Jain, D., 2025, GRB Coordinates Network, 43207, 1. GRB 251222A: 1.3m DFOT optical detection.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, <strong>Janghel, D.</strong>, Kar, D., Jain, D., Pawar, P., 2025, GRB Coordinates Network, 43223, 1. EP251220a: 3.6m DOT optical afterglow detection.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Pawar, P., Jain, D., Kar, D., 2025, GRB Coordinates Network, 43224, 1. GRB 251222A: Continued 1.3m DFOT optical observation.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Pawar, P., Jain, D., Kar, D., 2025, GRB Coordinates Network, 43277, 1. GRB 251230A: 1.3m DFOT optical upper limit.</li>
+    <li>Gupta, A., Pawar, P., Jain, D., Kar, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42810, 1. EP251118A: 3.6m DOT optical afterglow detection.</li>
+    <li>Gupta, A., Kar, D., Pawar, P., <strong>Janghel, D.</strong>, Jain, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42813, 1. GRB 251122A/EP251122A: 1.3m DFOT optical detection.</li>
+    <li>Gupta, A., Pawar, P., Kar, D., Jain, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42787, 1. EP251118A: 1.3m DFOT optical afterglow detection.</li>
+    <li>Gupta, A., Jain, D., Pawar, P., kar, D., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42857, 1. GRB 251126A: 1.3m DFOT optical afterglow detection.</li>
+    <li>Gupta, A., <strong>Pranshu, K.</strong>, Kar, D., Jain, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42651, 1. GRB251111A: 1.3m DFOT optical upper limit.</li>
+    <li>Gupta, A., Jain, D., Kar, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42864, 1. GRB251126A: Continued optical observation from 1.3m DFOT.</li>
+    <li>Gupta, A., <strong>Pranshu, K.</strong>, Jain, D., Kar, D., Pawar, P., <strong>Misra, K.</strong>, 2025, GRB Coordinates Network, 42500, 1. GRB251025B: 3.6m DOT Optical Observations.</li>
+    <li>Gupta, A., Ror, A., <strong>Misra, K.</strong>, Pandey, S., 2025, GRB Coordinates Network, 39593, 1. EP250302A: 1.3m DFOT optical afterglow detection.</li>
+    <li>Gupta, A., Ror, A., <strong>Misra, K.</strong>, Pandey, S., 2025, GRB Coordinates Network, 39240, 1. GRB 250205A: 1.3m DFOT optical upper limit.</li>
+    <li>Gupta, A., Ror, A., Mamta, <strong>Misra, K.</strong>, Pandey, S., 2025, GRB Coordinates Network, 38818, 1. GRB 250101A: 1.3m DFOT optical afterglow detection.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 43262, 1. GRB 251230A: Early optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 42545, 1. GRB 251103A: LCO optical observation.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 42261, 1. GRB 251013C: Early and late-time optical counterpart detection by LCO.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 41913, 1. GRB 250920C: Optical counterpart detection by LCO.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 41673, 1. EP 250827B: Detection of supernova counterpart by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 41564, 1. EP250827A: An optical rebrightening was detected by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40322, 1. GRB 250502A: Early optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40263, 1. GRB 250424A: LCO optical observation.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40189, 1. GRB 250419A: LCO optical observation.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40293, 1. EP 250427A: Optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 40039, 1. GRB 250403A: Optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 39922, 1. GRB 250329A: Fading optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 39816, 1. EP 250321A: Optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39759, 1. EP 250317B: Fading optical counterpart detection by LCO.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39594, 1. EP 250304A: Optical counterpart detection by LCO.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39425, 1. GRB 250221A: Optical counterpart detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 38779, 1. GRB 250101A: LCO optical counterpart detection.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 39077, 1. GRB 250129A: Early afterglow detection by LCO..</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 38995, 1. EP 250108A: Late-time optical observation by LCO.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2025, GRB Coordinates Network, 38948, 1. GRB 250114A: LCO optical counterpart detection..</li>
+    <li>Gompertz, B., <strong>Dimple</strong>, 2025, GRB Coordinates Network, 41512, 1. GRB 250823A: Liverpool Telescope optical detection.</li>
+    <li><strong>Dimple</strong>, Gompertz, B., Kumar, A., 2025, GRB Coordinates Network, 41442, 1. GRB 250818B: Liverpool Telescope optical detections.</li>
+    <li>Malesani, D., Izzo, L., Martin-Carrillo, A., Corcoran, G., <strong>Dimple</strong>, Saccardi, A., Schneider, B., Xu, D., 2025, GRB Coordinates Network, 41279, 1. GRB 250806A: NOT z-band upper limit and host galaxy candidate.</li>
+    <li>Gompertz, B., <strong>Dimple</strong>, Martin-Carrillo, A., Corcoran, G., 2025, GRB Coordinates Network, 40677, 1. GRB 250610B: LT detection of the optical counterpart.</li>
+    <li>Gompertz, B., <strong>Dimple</strong>, Bochenek, A., 2025, GRB Coordinates Network, 40699, 1. GRB 250610B: Liverpool Telescope continued monitoring.</li>
+    <li>Gompertz, B., <strong>Dimple</strong>, Martin-Carrillo, A., Corcoran, G., Malesani, D., 2025, GRB Coordinates Network, 40634, 1. GRB 250605A: LT optical observations.</li>
+    <li><strong>Dimple</strong>, Gompertz, B., 2025, GRB Coordinates Network, 40238, 1. GRB 250419A: Liverpool Telescope optical upper limit.</li>
+    <li>Martin-Carrillo, A., Schneider, B., de Ugarte Postigo, A., Malesani, D., An, J., Xu, D., Corcoran, G., <strong>Dimple</strong>, Diaz Teodori, M., 2025, GRB Coordinates Network, 40080, 1. GRB 250404A / EP250404a: NOT optical observations.</li>
+    <li>Gompertz, B., <strong>Dimple</strong>, Malesani, D., Levan, A., 2025, GRB Coordinates Network, 38952, 1. GRB 250114B: Liverpool Telescope optical upper limit.</li>
+    <li>Kumar, A., Rawat, N., Buckley, D., Maund, J., Steeghs, D., <strong>Dastidar, R.</strong>, 2025, GRB Coordinates Network, 41106, 1. GRB 250716A: Lesedi Detection of Fading Optical Transient GOTO25eyp.</li>
+    <li>Kumar, A., <strong>Dastidar, R.</strong>, Pignata, G., Steeghs, D., Killestein, T., O'Neill, D., Andrés Pineda García, J., Ramirez, M., 2025, GRB Coordinates Network, 39904, 1. GRB 250327B: further optical observations by LCOGT.</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2024 (12 Circulars)</summary>
+  <ul style="line-height: 1.6; margin-left: 1.5rem;">
+    <li>Gupta, A., Ror, A., Lata, S., Museo, D., <strong>Misra, K.</strong>, Pandey, S., 2024, GRB Coordinates Network, 37893, 1. GRB241025A: 1.3m DFOT optical afterglow detection.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, 2024, GRB Coordinates Network, 36696, 1. GRB240615A: 1.3m DFOT optical upper limit.</li>
+    <li>Ror, A., Gupta, A., Rishi, C., Pandey, S., <strong>Misra, K.</strong>, 2024, GRB Coordinates Network, 36589, 1. GRB 240529A: 1.3m DFOT Optical observations.</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Singh, A., <strong>Dimple</strong>, 2024, GRB Coordinates Network, 36381, 1. GRB 240415A 1.3m DFOT Optical upper limit.</li>
+    <li>Sharma, K., Gupta, A., <strong>Misra, K.</strong>, Joshi, J., Majumdar, P., 2024, The Astronomer's Telegram, 16614, 1. Optical follow-up of FSRQ OP313 using 1.3 m Devasthal Fast Optical Telescope (DFOT).</li>
+    <li>Gupta, A., <strong>Misra, K.</strong>, Dogra, K., <strong>Dimple</strong>, 2024, GRB Coordinates Network, 36406, 1. GRB 240502A: 1.3m DFOT Optical upper limit.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2024, GRB Coordinates Network, 38702, 1. GRB 241228B: LCO optical observation.</li>
+    <li>Chandra, A., Kumar, B., Kumar, T., <strong>Pranshu, K.</strong>, Reddy, B., Kumar, M., Dhami, P., 2024, The Astronomer's Telegram, 16847, 1. Optical follow-up observations of GOTO065054.49+593624.51.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Dukiya, N., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38672, 1. GRB 241029A: LCO optical observation.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38220, 1. GRB 241030A: LCO optical observation.</li>
+    <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38095, 1. GRB 240511A: LCO upper limits.</li>
+    <li><strong>Dimple</strong>, Gompertz, B., Levan, A., Malesani, D., Martin-Carrillo, A., Ravasio, M., Izzo, L., Rossi, A., D'Avanzo, P., Tanvir, N., 2024, GRB Coordinates Network, 38654, 1. GRB 241105A: JWST photometric observations of the host galaxy.</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2023 (7 Circulars)</summary>
+  <ul style="line-height: 1.6; margin-left: 1.5rem;">
+    <li>Ror, A., Kumar, B., Gupta, R., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33939, 1. ZTF23aamxeqf/AT2023jxk: 1.3m DFOT Optical upper limit.</li>
+    <li><strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, Gupta, R., Ror, A., Aryan, A., Pandey, S., 2023, GRB Coordinates Network, 33620, 1. GRB 230414B: 1.3m DFOT Optical observations.</li>
+    <li>Ror, A., Gupta, R., Pandey, S., <strong>Ghosh, A.</strong>, Aryan, A., <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33547, 1. GRB 230328B: 3.6m DOT multiband optical observation.</li>
+    <li>Ror, A., <strong>Ghosh, A.</strong>, Kumar, B., Gupta, R., Aryan, A., <strong>Dimple</strong>, Pandey, S., <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33284, 1. GRB 230204B: 3.6m DOT optical observation.</li>
+    <li>Ror, A., Gupta, R., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33149, 1. GRB 221231A: 3.6m DOT optical upper limit.</li>
+    <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33198, 1. GRB 230116D: 3.6m DOT optical upper limit.</li>
+    <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, Wani, K., <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2023, GRB Coordinates Network, 33237, 1. ZTF23aabmzlp/AT2023azs: 1.3m DFOT optical observations.</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2022 (11 Circulars)</summary>
+  <ul style="line-height: 1.6; margin-left: 1.5rem;">
+    <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 33090, 1. GRB 221218A: 3.6m DOT optical upper limit.</li>
+    <li>Ror, A., Snehlata, Gupta, R., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 32898, 1. GRB 221028A: 1.3m DFOT Optical upper limit.</li>
+    <li>Kumar, H., Teja, R., Bhalerao, V., <strong>Misra, K.</strong>, et al., 2022, The Astronomer's Telegram, 15644, 1. AT2022wgv is a galactic CV.</li>
+    <li>Gupta, R., Ror, A., Pandey, S., Aryan, A., <strong>Ghosh, A.</strong>, Dimple, <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 32811, 1. GRB 221009A: 1.3m DFOT Optical Observations.</li>
+    <li>Kumar, A., Gupta, R., Ror, A., Rawat, N., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31868, 1. GRB 220408A: 1.3m DFOT Optical upper limit.</li>
+    <li>Ror, A., Gupta, R., Kumar, A., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31869, 1. GRB 220403B: 1.3m DFOT Optical upper limit.</li>
+    <li>Gupta, R., Ror, A., Kumar, A., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Chand, K., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31793, 1. GRB 220325A: 1.3m DFOT Optical upper limit.</li>
+    <li><strong>Dimple</strong>, Gupta, R., <strong>Ghosh, A.</strong>, <strong>Dukiya, N.</strong>, Kumar, A., Ror, A., Aryan, A., Wani, K., <strong>Misra, K.</strong>, Pandey, S., 2022, GRB Coordinates Network, 31805, 1. ZTF22aaajecp/AT2022cmc: 1.3m DFOT Optical observations.</li>
+    <li><strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Gupta, R., Kumar, A., Ror, A., Panchal, A., <strong>Misra, K.</strong>, Pandey, S., 2022, GRB Coordinates Network, 31384, 1. GRB 220101A: 1.3m DFOT observations.</li>
+    <li>Ror, A., Gupta, R., Kumar, A., <strong>Dimple</strong>, <strong>Ghosh, A.</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31394, 1. GRB 220101A: continued 1.3m DFOT Optical Observations.</li>
+    <li>Kumar, A., Gupta, R., Ror, A., <strong>Ghosh, A.</strong>, <strong>Dimple</strong>, Aryan, A., Kumar, B., Pandey, S., <strong>Misra, K.</strong>, 2022, GRB Coordinates Network, 31442, 1. GRB 220101A: continued 1.3m DFOT optical observations of a high-redshift afterglow.</li>
+  </ul>
+</details>
+
