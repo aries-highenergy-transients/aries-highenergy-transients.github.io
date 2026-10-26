@@ -61,16 +61,51 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-joined">2021</div>
       <div class="modal-pubs-first">
         <ol reversed>
+          <li><strong>Modelling the Point Spread Function of ILMT images</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14819" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Early NIR echo and the time variable mass loss history of Type IIn SN 2024kgi</strong>, The Astrophysical Journal (accepted) (2026) [<a href="https://arxiv.org/abs/2609.25233" target="_blank" rel="noopener">arXiv</a>]</li>
           <li><strong>Probing the circumstellar environment of the highly luminous Type IIn Supernova ASASSN-14il</strong>, The Astrophysical Journal (2024) [<a href="https://doi.org/10.3847/1538-4357/ad7e11" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Astrometric and Photometric Standard Candidates for the Upcoming 4-m International Liquid Mirror Telescope Survey</strong>, Journal of Astronomical Instrumentation (2022) [<a href="https://doi.org/10.1142/S2251171722400013" target="_blank" rel="noopener">DOI</a>]</li>
         </ol>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
+          <li><strong>Optical observations of supernova candidates with the ILMT</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted) (2026) [<a href="https://arxiv.org/abs/2610.21277" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>From Sky to Science: Time Domain Astronomy with the ILMT Survey</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14827" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Demonstrating the Time-domain Capabilities of the 4 m International Liquid Mirror Telescope: An Early Census of Transient and Variable Detections</strong>, Publications of the Astronomical Society of the Pacific (2026) [<a href="https://doi.org/10.1088/1538-3873/aea3e4" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Performance of the 4-m international liquid mirror telescope tested in two fields at high and low ecliptic and galactic latitudes</strong>, Journal of Astrophysics and Astronomy (2026) [<a href="https://doi.org/10.1007/s12036-026-10161-4" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Photometric and late-time spectropolarimetric observations of GRB 250129A afterglow</strong>, Monthly Notices of the Royal Astronomical Society (2026) [<a href="https://doi.org/10.1093/mnras/stag1391" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>SN 2022xus: bridging the gap between Type IIP and IIL supernovae</strong>, Monthly Notices of the Royal Astronomical Society (2026) [<a href="https://doi.org/10.1093/mnras/stag1427" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2026) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
-          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2021foa: the bridge between SN IIn and Ibn</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf187" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1014" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>GRB 251230A: Early optical counterpart detection by LCO.</strong>, GCN Circular 43262 (2025-12-30) [<a href="https://gcn.nasa.gov/circulars/43262" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251103A: LCO optical observation</strong>, GCN Circular 42545 (2025-11-03) [<a href="https://gcn.nasa.gov/circulars/42545" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251013C: Early and late-time optical counterpart detection by LCO</strong>, GCN Circular 42261 (2025-10-14) [<a href="https://gcn.nasa.gov/circulars/42261" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250920C: Optical counterpart detection by LCO</strong>, GCN Circular 41913 (2025-09-20) [<a href="https://gcn.nasa.gov/circulars/41913" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP 250827B: Detection of supernova counterpart by LCO.</strong>, GCN Circular 41673 (2025-09-03) [<a href="https://gcn.nasa.gov/circulars/41673" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP250827A: An optical rebrightening was detected by LCO.</strong>, GCN Circular 41564 (2025-08-27) [<a href="https://gcn.nasa.gov/circulars/41564" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250502A: Early optical counterpart detection by LCO.</strong>, GCN Circular 40322 (2025-05-02) [<a href="https://gcn.nasa.gov/circulars/40322" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP 250427A: Optical counterpart detection by LCO.</strong>, GCN Circular 40293 (2025-04-30) [<a href="https://gcn.nasa.gov/circulars/40293" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250424A: LCO optical observation</strong>, GCN Circular 40263 (2025-04-27) [<a href="https://gcn.nasa.gov/circulars/40263" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250419A: LCO optical observation</strong>, GCN Circular 40189 (2025-04-21) [<a href="https://gcn.nasa.gov/circulars/40189" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250403A: Optical counterpart detection by LCO.</strong>, GCN Circular 40039 (2025-04-04) [<a href="https://gcn.nasa.gov/circulars/40039" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250329A: Fading optical counterpart detection by LCO.</strong>, GCN Circular 39922 (2025-03-29) [<a href="https://gcn.nasa.gov/circulars/39922" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP 250321A: Optical counterpart detection by LCO.</strong>, GCN Circular 39816 (2025-03-21) [<a href="https://gcn.nasa.gov/circulars/39816" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP 250317B: Fading optical counterpart detection by LCO</strong>, GCN Circular 39759 (2025-03-17) [<a href="https://gcn.nasa.gov/circulars/39759" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP 250304A: Optical counterpart detection by LCO</strong>, GCN Circular 39594 (2025-03-05) [<a href="https://gcn.nasa.gov/circulars/39594" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250221A: Optical counterpart detection by LCO.</strong>, GCN Circular 39425 (2025-02-22) [<a href="https://gcn.nasa.gov/circulars/39425" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250129A: Early afterglow detection by LCO.</strong>, GCN Circular 39077 (2025-01-29) [<a href="https://gcn.nasa.gov/circulars/39077" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP 250108A: Late-time optical observation by LCO</strong>, GCN Circular 38995 (2025-01-20) [<a href="https://gcn.nasa.gov/circulars/38995" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250114A: LCO optical counterpart detection.</strong>, GCN Circular 38948 (2025-01-15) [<a href="https://gcn.nasa.gov/circulars/38948" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250101A: LCO optical counterpart detection</strong>, GCN Circular 38779 (2025-01-02) [<a href="https://gcn.nasa.gov/circulars/38779" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241228B: LCO optical observation</strong>, GCN Circular 38702 (2024-12-29) [<a href="https://gcn.nasa.gov/circulars/38702" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241029A: LCO optical observation</strong>, GCN Circular 38672 (2024-12-26) [<a href="https://gcn.nasa.gov/circulars/38672" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>ZTF22aaajecp/AT2022cmc: 1.3m DFOT Optical observations</strong>, GCN Circular 31805 (2022-03-29) [<a href="https://gcn.nasa.gov/circulars/31805" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -115,16 +150,33 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-joined">2022</div>
       <div class="modal-pubs-first">
         <ol reversed>
+          <li><strong>Demonstrating the Time-domain Capabilities of the 4 m International Liquid Mirror Telescope: An Early Census of Transient and Variable Detections</strong>, Publications of the Astronomical Society of the Pacific (2026) [<a href="https://doi.org/10.1088/1538-3873/aea3e4" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Transfer learning for transient search with small-field optical survey telescopes</strong>, RAS Techniques and Instruments (2026) [<a href="https://doi.org/10.1093/rasti/rzag044" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>PyLMT: A transient detection pipeline for the 4-m International Liquid Mirror Telescope</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf206" target="_blank" rel="noopener">DOI</a>]</li>
         </ol>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
+          <li><strong>Optical observations of supernova candidates with the ILMT</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted) (2026) [<a href="https://arxiv.org/abs/2610.21277" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Modelling the Point Spread Function of ILMT images</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14819" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>From Sky to Science: Time Domain Astronomy with the ILMT Survey</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14827" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Performance of the 4-m international liquid mirror telescope tested in two fields at high and low ecliptic and galactic latitudes</strong>, Journal of Astrophysics and Astronomy (2026) [<a href="https://doi.org/10.1007/s12036-026-10161-4" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>SN 2022xus: bridging the gap between Type IIP and IIL supernovae</strong>, Monthly Notices of the Royal Astronomical Society (2026) [<a href="https://doi.org/10.1093/mnras/stag1427" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>The 4 m International Liquid Mirror Telescope: construction, operation, and science</strong>, Astronomy & Astrophysics (2025) [<a href="https://doi.org/10.1051/0004-6361/202452667" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11892" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT </strong>, GCN Circular 44051 (2026-03-19) [<a href="https://gcn.nasa.gov/circulars/44051" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251111A: 1.3m DFOT optical upper limit</strong>, GCN Circular 42651 (2025-11-12) [<a href="https://gcn.nasa.gov/circulars/42651" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251025B: 3.6m DOT Optical Observations</strong>, GCN Circular 42500 (2025-10-28) [<a href="https://gcn.nasa.gov/circulars/42500" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250309B: 1.3m DFOT Optical observations</strong>, GCN Circular 39679 (2025-03-12) [<a href="https://gcn.nasa.gov/circulars/39679" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241229A: 1.3m DFOT upper limit</strong>, GCN Circular 38817 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38817" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241228B: 1.3m DFOT Optical observations</strong>, GCN Circular 38816 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38816" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241228A: 1.3m DFOT upper limit</strong>, GCN Circular 38815 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38815" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -168,17 +220,27 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-joined">2022</div>
       <div class="modal-pubs-first">
         <ol reversed>
+          <li><strong>Optical observations of supernova candidates with the ILMT</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted) (2026) [<a href="https://arxiv.org/abs/2610.21277" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>SN 2022xus: bridging the gap between Type IIP and IIL supernovae</strong>, Monthly Notices of the Royal Astronomical Society (2026) [<a href="https://doi.org/10.1093/mnras/stag1427" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>SN 2023zcu: Photometric and spectroscopic analysis of a Type IIP supernova from rise to nebular phase</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae3c7e" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1014" target="_blank" rel="noopener">DOI</a>]</li>
-          <li><strong>SN 2023zcu: Photometric and spectroscopic analysis of a Type IIP supernova from rise to nebular phase</strong>, The Astrophysical Journal (2025) [<a href="https://doi.org/10.3847/1538-4357/ae3c7e" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>A Year-long Representation of the ILMT Observations in Different Coordinate Systems</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11913" target="_blank" rel="noopener">DOI</a>]</li>
         </ol>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
+          <li><strong>Modelling the Point Spread Function of ILMT images</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14819" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>From Sky to Science: Time Domain Astronomy with the ILMT Survey</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14827" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Demonstrating the Time-domain Capabilities of the 4 m International Liquid Mirror Telescope: An Early Census of Transient and Variable Detections</strong>, Publications of the Astronomical Society of the Pacific (2026) [<a href="https://doi.org/10.1088/1538-3873/aea3e4" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Performance of the 4-m international liquid mirror telescope tested in two fields at high and low ecliptic and galactic latitudes</strong>, Journal of Astrophysics and Astronomy (2026) [<a href="https://doi.org/10.1007/s12036-026-10161-4" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Early NIR echo and the time variable mass loss history of Type IIn SN 2024kgi</strong>, The Astrophysical Journal (accepted) (2026) [<a href="https://arxiv.org/abs/2609.25233" target="_blank" rel="noopener">arXiv</a>]</li>
           <li><strong>SN 2024aecx: A Nearby Fast-evolving Type IIb Supernova</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2026) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
-          <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
         </ol>
+      </div>
+      <div class="modal-gcns">
+        <p>None yet</p>
       </div>
     </div>
   </div>
@@ -209,13 +271,23 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-bio"></div>
       <div class="modal-joined">July 2022</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <p>None yet</p>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
+          <li><strong>Optical observations of supernova candidates with the ILMT</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted) (2026) [<a href="https://arxiv.org/abs/2610.21277" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Modelling the Point Spread Function of ILMT images</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14819" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>From Sky to Science: Time Domain Astronomy with the ILMT Survey</strong>, Bulletin de la Société Royale des Sciences de Liège (accepted; BINA 4 proceedings) (2026) [<a href="https://arxiv.org/abs/2610.14827" target="_blank" rel="noopener">arXiv</a>]</li>
+          <li><strong>Demonstrating the Time-domain Capabilities of the 4 m International Liquid Mirror Telescope: An Early Census of Transient and Variable Detections</strong>, Publications of the Astronomical Society of the Pacific (2026) [<a href="https://doi.org/10.1088/1538-3873/aea3e4" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Transfer learning for transient search with small-field optical survey telescopes</strong>, RAS Techniques and Instruments (2026) [<a href="https://doi.org/10.1093/rasti/rzag044" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>SN 2024aecx: A Fast-evolving Type IIb Supernova with a Prominent Shock-cooling Peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">arXiv</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>EP261015a: Follow-up with the 1.3m DFOT</strong>, GCN Circular 45998 (2026-10-20) [<a href="https://gcn.nasa.gov/circulars/45998" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 261017A: R-band upper limit with the 1.3-m DFOT</strong>, GCN Circular 45986 (2026-10-19) [<a href="https://gcn.nasa.gov/circulars/45986" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261006a / AT 2026aetp: Optical follow-up with the 1.3-m DFOT</strong>, GCN Circular 45966 (2026-10-16) [<a href="https://gcn.nasa.gov/circulars/45966" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -242,13 +314,65 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-bio"></div>
       <div class="modal-joined">December 2022</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <p>None yet</p>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>EP261015a: Further optical observations with the 1.3m DFOT</strong>, GCN Circular 46006 (2026-10-21) [<a href="https://gcn.nasa.gov/circulars/46006" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261015a: Follow-up with the 1.3m DFOT</strong>, GCN Circular 45998 (2026-10-20) [<a href="https://gcn.nasa.gov/circulars/45998" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 261017A: R-band upper limit with the 1.3-m DFOT</strong>, GCN Circular 45986 (2026-10-19) [<a href="https://gcn.nasa.gov/circulars/45986" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261006a / AT 2026aetp: Optical follow-up with the 1.3-m DFOT</strong>, GCN Circular 45966 (2026-10-16) [<a href="https://gcn.nasa.gov/circulars/45966" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection</strong>, GCN Circular 44993 (2026-06-19) [<a href="https://gcn.nasa.gov/circulars/44993" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260421B: 3.6m DOT optical observation</strong>, GCN Circular 44396 (2026-04-23) [<a href="https://gcn.nasa.gov/circulars/44396" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260416a: 1.3m DFOT optical observation</strong>, GCN Circular 44373 (2026-04-21) [<a href="https://gcn.nasa.gov/circulars/44373" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260321A/AT2026gzf: Optical observation from 1.3m DFOT </strong>, GCN Circular 44348 (2026-04-19) [<a href="https://gcn.nasa.gov/circulars/44348" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260411B: 3.6m DOT optical observation</strong>, GCN Circular 44271 (2026-04-11) [<a href="https://gcn.nasa.gov/circulars/44271" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT </strong>, GCN Circular 44051 (2026-03-19) [<a href="https://gcn.nasa.gov/circulars/44051" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260310A / AT2026fgk: 1.3m DFOT optical observations</strong>, GCN Circular 44022 (2026-03-15) [<a href="https://gcn.nasa.gov/circulars/44022" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260303A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43925 (2026-03-05) [<a href="https://gcn.nasa.gov/circulars/43925" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260227A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43884 (2026-03-01) [<a href="https://gcn.nasa.gov/circulars/43884" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260214b: 1.3m DFOT optical upper limit</strong>, GCN Circular 43774 (2026-02-17) [<a href="https://gcn.nasa.gov/circulars/43774" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260131A/B: 3.6m DOT Optical Observations</strong>, GCN Circular 43708 (2026-02-12) [<a href="https://gcn.nasa.gov/circulars/43708" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260208A: 1.3m DFOT optical detection</strong>, GCN Circular 43665 (2026-02-09) [<a href="https://gcn.nasa.gov/circulars/43665" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260116A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43430 (2026-01-16) [<a href="https://gcn.nasa.gov/circulars/43430" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251230A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43277 (2025-12-31) [<a href="https://gcn.nasa.gov/circulars/43277" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: Continued 1.3m DFOT optical observation</strong>, GCN Circular 43224 (2025-12-24) [<a href="https://gcn.nasa.gov/circulars/43224" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251220a: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43223 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43223" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: 1.3m DFOT optical detection</strong>, GCN Circular 43207 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43207" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251214B: 1.3m DFOT optical detection</strong>, GCN Circular 43100 (2025-12-14) [<a href="https://gcn.nasa.gov/circulars/43100" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251205A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43067 (2025-12-10) [<a href="https://gcn.nasa.gov/circulars/43067" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251130A: Optical observation from 1.3m DFOT</strong>, GCN Circular 42916 (2025-12-01) [<a href="https://gcn.nasa.gov/circulars/42916" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251126A: Continued optical observation from 1.3m DFOT</strong>, GCN Circular 42864 (2025-11-28) [<a href="https://gcn.nasa.gov/circulars/42864" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251126A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42857 (2025-11-27) [<a href="https://gcn.nasa.gov/circulars/42857" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251122A/EP251122A: 1.3m DFOT optical detection</strong>, GCN Circular 42813 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42813" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 42810 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42810" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42787 (2025-11-21) [<a href="https://gcn.nasa.gov/circulars/42787" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251111A: 1.3m DFOT optical upper limit</strong>, GCN Circular 42651 (2025-11-12) [<a href="https://gcn.nasa.gov/circulars/42651" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251025B: 3.6m DOT Optical Observations</strong>, GCN Circular 42500 (2025-10-28) [<a href="https://gcn.nasa.gov/circulars/42500" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250309B: 1.3m DFOT Optical observations</strong>, GCN Circular 39679 (2025-03-12) [<a href="https://gcn.nasa.gov/circulars/39679" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP250302A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 39593 (2025-03-04) [<a href="https://gcn.nasa.gov/circulars/39593" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250207A: 1.3m DFOT Optical observations</strong>, GCN Circular 39250 (2025-02-09) [<a href="https://gcn.nasa.gov/circulars/39250" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250205A: 1.3m DFOT optical upper limit</strong>, GCN Circular 39240 (2025-02-08) [<a href="https://gcn.nasa.gov/circulars/39240" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250129A: 1.3m DFOT Optical observations</strong>, GCN Circular 39115 (2025-02-01) [<a href="https://gcn.nasa.gov/circulars/39115" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>Ep250125A: 1.3m DFOT optical upper limit</strong>, GCN Circular 39092 (2025-01-30) [<a href="https://gcn.nasa.gov/circulars/39092" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP250108a/AT2025kg: 1.3m DFOT Optical observations</strong>, GCN Circular 39002 (2025-01-20) [<a href="https://gcn.nasa.gov/circulars/39002" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250108B: 1.3m DFOT upper limit</strong>, GCN Circular 38875 (2025-01-09) [<a href="https://gcn.nasa.gov/circulars/38875" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 250101A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 38818 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38818" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241229A: 1.3m DFOT upper limit</strong>, GCN Circular 38817 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38817" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241228B: 1.3m DFOT Optical observations</strong>, GCN Circular 38816 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38816" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 241228A: 1.3m DFOT upper limit</strong>, GCN Circular 38815 (2025-01-04) [<a href="https://gcn.nasa.gov/circulars/38815" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB241025A:  1.3m DFOT optical afterglow detection</strong>, GCN Circular 37893 (2024-10-26) [<a href="https://gcn.nasa.gov/circulars/37893" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB241017A:  1.3m DFOT optical upper limit</strong>, GCN Circular 37838 (2024-10-22) [<a href="https://gcn.nasa.gov/circulars/37838" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB240615A: 1.3m DFOT optical upper limit</strong>, GCN Circular 36696 (2024-06-19) [<a href="https://gcn.nasa.gov/circulars/36696" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 240529A: 1.3m DFOT Optical observations</strong>, GCN Circular 36589 (2024-06-01) [<a href="https://gcn.nasa.gov/circulars/36589" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 240502A:  1.3m DFOT Optical upper limit</strong>, GCN Circular 36406 (2024-05-07) [<a href="https://gcn.nasa.gov/circulars/36406" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 240415A 1.3m DFOT Optical upper limit</strong>, GCN Circular 36381 (2024-05-03) [<a href="https://gcn.nasa.gov/circulars/36381" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 240411B: 1.3m DFOT Optical observations</strong>, GCN Circular 36069 (2024-04-12) [<a href="https://gcn.nasa.gov/circulars/36069" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -275,13 +399,49 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-bio"></div>
       <div class="modal-joined">July 2023</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <ol reversed>
+          <li><strong>What do gravitational-wave observations tell us about Luminous Red Novae?</strong>, The Astrophysical Journal (accepted) (2026) [<a href="https://arxiv.org/abs/2511.19243" target="_blank" rel="noopener">arXiv</a>]</li>
+        </ol>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Rates and Beaming Angles of Gamma-Ray Bursts Associated with Compact Binary Coalescences</strong>, The Astrophysical Journal Letters (2024) [<a href="https://doi.org/10.3847/2041-8213/ad8dc7" target="_blank" rel="noopener">arXiv</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>EP261015a: Further optical observations with the 1.3m DFOT</strong>, GCN Circular 46006 (2026-10-21) [<a href="https://gcn.nasa.gov/circulars/46006" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261015a: Follow-up with the 1.3m DFOT</strong>, GCN Circular 45998 (2026-10-20) [<a href="https://gcn.nasa.gov/circulars/45998" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 261017A: R-band upper limit with the 1.3-m DFOT</strong>, GCN Circular 45986 (2026-10-19) [<a href="https://gcn.nasa.gov/circulars/45986" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261006a / AT 2026aetp: Optical follow-up with the 1.3-m DFOT</strong>, GCN Circular 45966 (2026-10-16) [<a href="https://gcn.nasa.gov/circulars/45966" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection</strong>, GCN Circular 44993 (2026-06-19) [<a href="https://gcn.nasa.gov/circulars/44993" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260421B: 3.6m DOT optical observation</strong>, GCN Circular 44396 (2026-04-23) [<a href="https://gcn.nasa.gov/circulars/44396" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260416a: 1.3m DFOT optical observation</strong>, GCN Circular 44373 (2026-04-21) [<a href="https://gcn.nasa.gov/circulars/44373" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260321A/AT2026gzf: Optical observation from 1.3m DFOT </strong>, GCN Circular 44348 (2026-04-19) [<a href="https://gcn.nasa.gov/circulars/44348" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260411B: 3.6m DOT optical observation</strong>, GCN Circular 44271 (2026-04-11) [<a href="https://gcn.nasa.gov/circulars/44271" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT </strong>, GCN Circular 44051 (2026-03-19) [<a href="https://gcn.nasa.gov/circulars/44051" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260310A / AT2026fgk: 1.3m DFOT optical observations</strong>, GCN Circular 44022 (2026-03-15) [<a href="https://gcn.nasa.gov/circulars/44022" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260303A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43925 (2026-03-05) [<a href="https://gcn.nasa.gov/circulars/43925" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260227A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43884 (2026-03-01) [<a href="https://gcn.nasa.gov/circulars/43884" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260214b: 1.3m DFOT optical upper limit</strong>, GCN Circular 43774 (2026-02-17) [<a href="https://gcn.nasa.gov/circulars/43774" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260131A/B: 3.6m DOT Optical Observations</strong>, GCN Circular 43708 (2026-02-12) [<a href="https://gcn.nasa.gov/circulars/43708" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260208A: 1.3m DFOT optical detection</strong>, GCN Circular 43665 (2026-02-09) [<a href="https://gcn.nasa.gov/circulars/43665" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260116A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43430 (2026-01-16) [<a href="https://gcn.nasa.gov/circulars/43430" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251230A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43277 (2025-12-31) [<a href="https://gcn.nasa.gov/circulars/43277" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: Continued 1.3m DFOT optical observation</strong>, GCN Circular 43224 (2025-12-24) [<a href="https://gcn.nasa.gov/circulars/43224" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251220a: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43223 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43223" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: 1.3m DFOT optical detection</strong>, GCN Circular 43207 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43207" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251214B: 1.3m DFOT optical detection</strong>, GCN Circular 43100 (2025-12-14) [<a href="https://gcn.nasa.gov/circulars/43100" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251205A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43067 (2025-12-10) [<a href="https://gcn.nasa.gov/circulars/43067" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251130A: Optical observation from 1.3m DFOT</strong>, GCN Circular 42916 (2025-12-01) [<a href="https://gcn.nasa.gov/circulars/42916" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251126A: Continued optical observation from 1.3m DFOT</strong>, GCN Circular 42864 (2025-11-28) [<a href="https://gcn.nasa.gov/circulars/42864" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251126A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42857 (2025-11-27) [<a href="https://gcn.nasa.gov/circulars/42857" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251122A/EP251122A: 1.3m DFOT optical detection</strong>, GCN Circular 42813 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42813" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 42810 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42810" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42787 (2025-11-21) [<a href="https://gcn.nasa.gov/circulars/42787" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251111A: 1.3m DFOT optical upper limit</strong>, GCN Circular 42651 (2025-11-12) [<a href="https://gcn.nasa.gov/circulars/42651" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251025B: 3.6m DOT Optical Observations</strong>, GCN Circular 42500 (2025-10-28) [<a href="https://gcn.nasa.gov/circulars/42500" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -308,14 +468,21 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-bio"></div>
       <div class="modal-joined">July 2023</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <p>None yet</p>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection</strong>, GCN Circular 44993 (2026-06-19) [<a href="https://gcn.nasa.gov/circulars/44993" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260321A/AT2026gzf: Optical observation from 1.3m DFOT </strong>, GCN Circular 44348 (2026-04-19) [<a href="https://gcn.nasa.gov/circulars/44348" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251220a: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43223 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43223" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251122A/EP251122A: 1.3m DFOT optical detection</strong>, GCN Circular 42813 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42813" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>Ep250125A: 1.3m DFOT optical upper limit</strong>, GCN Circular 39092 (2025-01-30) [<a href="https://gcn.nasa.gov/circulars/39092" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -350,13 +517,46 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <div class="modal-bio"></div>
       <div class="modal-joined">December 2023</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <p>None yet</p>
       </div>
       <div class="modal-pubs-contrib">
         <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>EP261015a: Further optical observations with the 1.3m DFOT</strong>, GCN Circular 46006 (2026-10-21) [<a href="https://gcn.nasa.gov/circulars/46006" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261015a: Follow-up with the 1.3m DFOT</strong>, GCN Circular 45998 (2026-10-20) [<a href="https://gcn.nasa.gov/circulars/45998" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 261017A: R-band upper limit with the 1.3-m DFOT</strong>, GCN Circular 45986 (2026-10-19) [<a href="https://gcn.nasa.gov/circulars/45986" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261006a / AT 2026aetp: Optical follow-up with the 1.3-m DFOT</strong>, GCN Circular 45966 (2026-10-16) [<a href="https://gcn.nasa.gov/circulars/45966" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection</strong>, GCN Circular 44993 (2026-06-19) [<a href="https://gcn.nasa.gov/circulars/44993" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260421B: 3.6m DOT optical observation</strong>, GCN Circular 44396 (2026-04-23) [<a href="https://gcn.nasa.gov/circulars/44396" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260416a: 1.3m DFOT optical observation</strong>, GCN Circular 44373 (2026-04-21) [<a href="https://gcn.nasa.gov/circulars/44373" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260321A/AT2026gzf: Optical observation from 1.3m DFOT </strong>, GCN Circular 44348 (2026-04-19) [<a href="https://gcn.nasa.gov/circulars/44348" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260411B: 3.6m DOT optical observation</strong>, GCN Circular 44271 (2026-04-11) [<a href="https://gcn.nasa.gov/circulars/44271" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT </strong>, GCN Circular 44051 (2026-03-19) [<a href="https://gcn.nasa.gov/circulars/44051" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260310A / AT2026fgk: 1.3m DFOT optical observations</strong>, GCN Circular 44022 (2026-03-15) [<a href="https://gcn.nasa.gov/circulars/44022" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260303A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43925 (2026-03-05) [<a href="https://gcn.nasa.gov/circulars/43925" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260227A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43884 (2026-03-01) [<a href="https://gcn.nasa.gov/circulars/43884" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260214b: 1.3m DFOT optical upper limit</strong>, GCN Circular 43774 (2026-02-17) [<a href="https://gcn.nasa.gov/circulars/43774" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260131A/B: 3.6m DOT Optical Observations</strong>, GCN Circular 43708 (2026-02-12) [<a href="https://gcn.nasa.gov/circulars/43708" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260208A: 1.3m DFOT optical detection</strong>, GCN Circular 43665 (2026-02-09) [<a href="https://gcn.nasa.gov/circulars/43665" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260116A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43430 (2026-01-16) [<a href="https://gcn.nasa.gov/circulars/43430" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251230A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43277 (2025-12-31) [<a href="https://gcn.nasa.gov/circulars/43277" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: Continued 1.3m DFOT optical observation</strong>, GCN Circular 43224 (2025-12-24) [<a href="https://gcn.nasa.gov/circulars/43224" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251220a: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43223 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43223" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: 1.3m DFOT optical detection</strong>, GCN Circular 43207 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43207" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251214B: 1.3m DFOT optical detection</strong>, GCN Circular 43100 (2025-12-14) [<a href="https://gcn.nasa.gov/circulars/43100" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251205A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43067 (2025-12-10) [<a href="https://gcn.nasa.gov/circulars/43067" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251130A: Optical observation from 1.3m DFOT</strong>, GCN Circular 42916 (2025-12-01) [<a href="https://gcn.nasa.gov/circulars/42916" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251126A: Continued optical observation from 1.3m DFOT</strong>, GCN Circular 42864 (2025-11-28) [<a href="https://gcn.nasa.gov/circulars/42864" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251126A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42857 (2025-11-27) [<a href="https://gcn.nasa.gov/circulars/42857" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251122A/EP251122A: 1.3m DFOT optical detection</strong>, GCN Circular 42813 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42813" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 42810 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42810" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42787 (2025-11-21) [<a href="https://gcn.nasa.gov/circulars/42787" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251111A: 1.3m DFOT optical upper limit</strong>, GCN Circular 42651 (2025-11-12) [<a href="https://gcn.nasa.gov/circulars/42651" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251025B: 3.6m DOT Optical Observations</strong>, GCN Circular 42500 (2025-10-28) [<a href="https://gcn.nasa.gov/circulars/42500" target="_blank" rel="noopener">GCN</a>]</li>
         </ol>
       </div>
     </div>
@@ -393,14 +593,45 @@ Apart from academics, I enjoy singing and learning different musical instruments
 Beyond academics, I have a keen interest in nature photography and traveling. You can check out my Instagram account to see some of my shots.</div>
       <div class="modal-joined">July 2024</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <p>None yet</p>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
-          <li>None yet</li>
-        </ul>
+        <p>None yet</p>
+      </div>
+      <div class="modal-gcns">
+        <ol reversed>
+          <li><strong>EP261015a: Further optical observations with the 1.3m DFOT</strong>, GCN Circular 46006 (2026-10-21) [<a href="https://gcn.nasa.gov/circulars/46006" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261015a: Follow-up with the 1.3m DFOT</strong>, GCN Circular 45998 (2026-10-20) [<a href="https://gcn.nasa.gov/circulars/45998" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 261017A: R-band upper limit with the 1.3-m DFOT</strong>, GCN Circular 45986 (2026-10-19) [<a href="https://gcn.nasa.gov/circulars/45986" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP261006a / AT 2026aetp: Optical follow-up with the 1.3-m DFOT</strong>, GCN Circular 45966 (2026-10-16) [<a href="https://gcn.nasa.gov/circulars/45966" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260610B/AT2026owq: 1.3m DFOT optical rebrightening detection</strong>, GCN Circular 44993 (2026-06-19) [<a href="https://gcn.nasa.gov/circulars/44993" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260421B: 3.6m DOT optical observation</strong>, GCN Circular 44396 (2026-04-23) [<a href="https://gcn.nasa.gov/circulars/44396" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260416a: 1.3m DFOT optical observation</strong>, GCN Circular 44373 (2026-04-21) [<a href="https://gcn.nasa.gov/circulars/44373" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260321A/AT2026gzf: Optical observation from 1.3m DFOT </strong>, GCN Circular 44348 (2026-04-19) [<a href="https://gcn.nasa.gov/circulars/44348" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260411B: 3.6m DOT optical observation</strong>, GCN Circular 44271 (2026-04-11) [<a href="https://gcn.nasa.gov/circulars/44271" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260310A/AT2026fgk: Further optical observation from 1.3m DFOT </strong>, GCN Circular 44051 (2026-03-19) [<a href="https://gcn.nasa.gov/circulars/44051" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260310A / AT2026fgk: 1.3m DFOT optical observations</strong>, GCN Circular 44022 (2026-03-15) [<a href="https://gcn.nasa.gov/circulars/44022" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260303A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43925 (2026-03-05) [<a href="https://gcn.nasa.gov/circulars/43925" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260227A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43884 (2026-03-01) [<a href="https://gcn.nasa.gov/circulars/43884" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260214b: 1.3m DFOT optical upper limit</strong>, GCN Circular 43774 (2026-02-17) [<a href="https://gcn.nasa.gov/circulars/43774" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB260131A/B: 3.6m DOT Optical Observations</strong>, GCN Circular 43708 (2026-02-12) [<a href="https://gcn.nasa.gov/circulars/43708" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 260208A: 1.3m DFOT optical detection</strong>, GCN Circular 43665 (2026-02-09) [<a href="https://gcn.nasa.gov/circulars/43665" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP260116A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43430 (2026-01-16) [<a href="https://gcn.nasa.gov/circulars/43430" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251230A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43277 (2025-12-31) [<a href="https://gcn.nasa.gov/circulars/43277" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: Continued 1.3m DFOT optical observation</strong>, GCN Circular 43224 (2025-12-24) [<a href="https://gcn.nasa.gov/circulars/43224" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251220a: 3.6m DOT optical afterglow detection</strong>, GCN Circular 43223 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43223" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251222A: 1.3m DFOT optical detection</strong>, GCN Circular 43207 (2025-12-23) [<a href="https://gcn.nasa.gov/circulars/43207" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251214B: 1.3m DFOT optical detection</strong>, GCN Circular 43100 (2025-12-14) [<a href="https://gcn.nasa.gov/circulars/43100" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251205A: 1.3m DFOT optical upper limit</strong>, GCN Circular 43067 (2025-12-10) [<a href="https://gcn.nasa.gov/circulars/43067" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251130A: Optical observation from 1.3m DFOT</strong>, GCN Circular 42916 (2025-12-01) [<a href="https://gcn.nasa.gov/circulars/42916" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251126A: Continued optical observation from 1.3m DFOT</strong>, GCN Circular 42864 (2025-11-28) [<a href="https://gcn.nasa.gov/circulars/42864" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251126A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42857 (2025-11-27) [<a href="https://gcn.nasa.gov/circulars/42857" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB 251122A/EP251122A: 1.3m DFOT optical detection</strong>, GCN Circular 42813 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42813" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 3.6m DOT optical afterglow detection</strong>, GCN Circular 42810 (2025-11-23) [<a href="https://gcn.nasa.gov/circulars/42810" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>EP251118A: 1.3m DFOT optical afterglow detection</strong>, GCN Circular 42787 (2025-11-21) [<a href="https://gcn.nasa.gov/circulars/42787" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251111A: 1.3m DFOT optical upper limit</strong>, GCN Circular 42651 (2025-11-12) [<a href="https://gcn.nasa.gov/circulars/42651" target="_blank" rel="noopener">GCN</a>]</li>
+          <li><strong>GRB251025B: 3.6m DOT Optical Observations</strong>, GCN Circular 42500 (2025-10-28) [<a href="https://gcn.nasa.gov/circulars/42500" target="_blank" rel="noopener">GCN</a>]</li>
+        </ol>
       </div>
     </div>
   </div>

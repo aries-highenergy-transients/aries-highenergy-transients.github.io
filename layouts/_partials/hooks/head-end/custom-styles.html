@@ -886,14 +886,16 @@
 
   /* Publication Lists in Modal */
   .scholar-modal-pubs-first-content ol,
-  .scholar-modal-pubs-contrib-content ol {
+  .scholar-modal-pubs-contrib-content ol,
+  .scholar-modal-gcns-content ol {
     margin: 0.5rem 0 0 1.25rem !important;
     padding: 0 !important;
     list-style-type: decimal !important;
   }
 
   .scholar-modal-pubs-first-content li,
-  .scholar-modal-pubs-contrib-content li {
+  .scholar-modal-pubs-contrib-content li,
+  .scholar-modal-gcns-content li {
     font-size: 0.9rem !important;
     line-height: 1.5 !important;
     margin-bottom: 0.5rem !important;
@@ -901,22 +903,26 @@
   }
 
   html:not(.dark) .scholar-modal-pubs-first-content li,
-  html:not(.dark) .scholar-modal-pubs-contrib-content li {
+  html:not(.dark) .scholar-modal-pubs-contrib-content li,
+  html:not(.dark) .scholar-modal-gcns-content li {
     color: #334155 !important;
   }
 
   .scholar-modal-pubs-first-content li strong,
-  .scholar-modal-pubs-contrib-content li strong {
+  .scholar-modal-pubs-contrib-content li strong,
+  .scholar-modal-gcns-content li strong {
     color: #f8fafc !important;
   }
 
   html:not(.dark) .scholar-modal-pubs-first-content li strong,
-  html:not(.dark) .scholar-modal-pubs-contrib-content li strong {
+  html:not(.dark) .scholar-modal-pubs-contrib-content li strong,
+  html:not(.dark) .scholar-modal-gcns-content li strong {
     color: #0f172a !important;
   }
 
   .scholar-modal-pubs-first-content li a,
-  .scholar-modal-pubs-contrib-content li a {
+  .scholar-modal-pubs-contrib-content li a,
+  .scholar-modal-gcns-content li a {
     color: #38bdf8 !important;
     text-decoration: none !important;
     font-weight: 500 !important;
@@ -924,18 +930,21 @@
   }
 
   .scholar-modal-pubs-first-content li a:hover,
-  .scholar-modal-pubs-contrib-content li a:hover {
+  .scholar-modal-pubs-contrib-content li a:hover,
+  .scholar-modal-gcns-content li a:hover {
     text-decoration: underline !important;
     color: #7dd3fc !important;
   }
 
   html:not(.dark) .scholar-modal-pubs-first-content li a,
-  html:not(.dark) .scholar-modal-pubs-contrib-content li a {
+  html:not(.dark) .scholar-modal-pubs-contrib-content li a,
+  html:not(.dark) .scholar-modal-gcns-content li a {
     color: #0284c7 !important;
   }
 
   html:not(.dark) .scholar-modal-pubs-first-content li a:hover,
-  html:not(.dark) .scholar-modal-pubs-contrib-content li a:hover {
+  html:not(.dark) .scholar-modal-pubs-contrib-content li a:hover,
+  html:not(.dark) .scholar-modal-gcns-content li a:hover {
     color: #0369a1 !important;
   }
 
@@ -1220,6 +1229,11 @@
               <h5 class="scholar-modal-section-title">Co-authored / Contributor Publications</h5>
               <div class="scholar-modal-text scholar-modal-pubs-contrib-content"></div>
             </div>
+
+            <div class="scholar-modal-gcns-section">
+              <h5 class="scholar-modal-section-title">GCN Circulars</h5>
+              <div class="scholar-modal-text scholar-modal-gcns-content"></div>
+            </div>
           </div>
         </div>
       </div>
@@ -1245,6 +1259,8 @@
     var pubsFirstContent = modalOverlay.querySelector('.scholar-modal-pubs-first-content');
     var pubsContribSection = modalOverlay.querySelector('.scholar-modal-pubs-contrib-section');
     var pubsContribContent = modalOverlay.querySelector('.scholar-modal-pubs-contrib-content');
+    var gcnsSection = modalOverlay.querySelector('.scholar-modal-gcns-section');
+    var gcnsContent = modalOverlay.querySelector('.scholar-modal-gcns-content');
 
     // 2. Open modal function
     window.openScholarModal = function(card) {
@@ -1352,12 +1368,26 @@
         } else {
           pubsContribSection.style.display = 'none';
         }
+
+        // GCN circulars are shown separately from research papers.
+        var valGcns = hiddenDetails.querySelector('.modal-gcns');
+        gcnsContent.innerHTML = '';
+        if (valGcns && valGcns.querySelector('ol li')) {
+          gcnsContent.innerHTML = valGcns.innerHTML.trim();
+          gcnsSection.style.display = 'block';
+        } else {
+          gcnsSection.style.display = 'none';
+        }
       } else {
         // Fallbacks for cards without hidden details yet
         joined.style.display = 'none';
         focusSection.style.display = 'none';
         interestsSection.style.display = 'none';
         bioSection.style.display = 'none';
+        pubsFirstSection.style.display = 'none';
+        pubsContribSection.style.display = 'none';
+        gcnsSection.style.display = 'none';
+        gcnsContent.innerHTML = '';
       }
 
       // Show Modal
