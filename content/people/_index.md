@@ -60,18 +60,18 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-bio"></div>
       <div class="modal-joined">2021</div>
       <div class="modal-pubs-first">
-        <ul>
+        <ol reversed>
           <li><strong>Probing the circumstellar environment of the highly luminous Type IIn Supernova ASASSN-14il</strong>, The Astrophysical Journal (2024) [<a href="https://doi.org/10.3847/1538-4357/ad7e11" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>Astrometric and Photometric Standard Candidates for the Upcoming 4-m International Liquid Mirror Telescope Survey</strong>, Journal of Astronomical Instrumentation (2022) [<a href="https://doi.org/10.1142/S2251171722400013" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
+        <ol reversed>
           <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2021foa: the bridge between SN IIn and Ibn</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf187" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1014" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -114,18 +114,18 @@ We have talented research scholars carrying out advanced research on high-energy
       <div class="modal-bio"></div>
       <div class="modal-joined">2022</div>
       <div class="modal-pubs-first">
-        <ul>
-          <li><strong>PyLMT: A transient detection pipeline for the 4-m International Liquid Mirror Telescope</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf206" target="_blank" rel="noopener">DOI</a>]</li>
+        <ol reversed>
           <li><strong>Transfer learning for transient search with small-field optical survey telescopes</strong>, RAS Techniques and Instruments (2026) [<a href="https://doi.org/10.1093/rasti/rzag044" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+          <li><strong>PyLMT: A transient detection pipeline for the 4-m International Liquid Mirror Telescope</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf206" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
-          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
+        <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>The 4 m International Liquid Mirror Telescope: construction, operation, and science</strong>, Astronomy & Astrophysics (2025) [<a href="https://doi.org/10.1051/0004-6361/202452667" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>An automated photometric pipeline for the ILMT data</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11892" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -167,18 +167,18 @@ We have talented research scholars carrying out advanced research on high-energy
 Apart from academics, I enjoy singing and learning different musical instruments. I learnt Indian classical music and occasionally perform, which makes me very happy. Currently, I am learning the piano and guitar. In my free time, I enjoy playing badminton and table tennis, traveling, exploring new places, and reading good books.</div>
       <div class="modal-joined">2022</div>
       <div class="modal-pubs-first">
-        <ul>
+        <ol reversed>
           <li><strong>SN 2018pq: progenitor insights of a Type IIP Supernova</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1014" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2023zcu: Photometric and spectroscopic analysis of a Type IIP supernova from rise to nebular phase</strong>, The Astrophysical Journal (2025) [<a href="https://doi.org/10.3847/1538-4357/ae3c7e" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>A Year-long Representation of the ILMT Observations in Different Coordinate Systems</strong>, Bulletin de la Société Royale des Sciences de Liège (2024) [<a href="https://doi.org/10.25518/0037-9565.11913" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
-          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
+        <ol reversed>
           <li><strong>SN 2024aecx: A Nearby Fast-evolving Type IIb Supernova</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
           <li><strong>SN 2023xgo: Helium-rich Type Icn or Carbon-Flash Type Ibn supernova?</strong>, Monthly Notices of the Royal Astronomical Society (2025) [<a href="https://doi.org/10.1093/mnras/staf1517" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -214,9 +214,9 @@ Apart from academics, I enjoy singing and learning different musical instruments
         </ul>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
+        <ol reversed>
           <li><strong>Transfer learning for transient search with small-field optical survey telescopes</strong>, RAS Techniques and Instruments (2026) [<a href="https://doi.org/10.1093/rasti/rzag044" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -247,9 +247,9 @@ Apart from academics, I enjoy singing and learning different musical instruments
         </ul>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
+        <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -280,9 +280,9 @@ Apart from academics, I enjoy singing and learning different musical instruments
         </ul>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
+        <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
@@ -313,10 +313,10 @@ Apart from academics, I enjoy singing and learning different musical instruments
         </ul>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
-          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
+        <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+          <li><strong>Probing Supernova Diversity Through High-Cadence Optical Observations</strong>, Universe (2025) [<a href="https://doi.org/10.3390/universe11110361" target="_blank" rel="noopener">DOI</a>]</li>
+        </ol>
       </div>
     </div>
   </div>
@@ -355,9 +355,9 @@ Apart from academics, I enjoy singing and learning different musical instruments
         </ul>
       </div>
       <div class="modal-pubs-contrib">
-        <ul>
+        <ol reversed>
           <li><strong>SN 2024aecx: a fast-evolving type IIb supernova with a prominent shock-cooling peak</strong>, The Astrophysical Journal (2026) [<a href="https://doi.org/10.3847/1538-4357/ae2d06" target="_blank" rel="noopener">DOI</a>]</li>
-        </ul>
+        </ol>
       </div>
     </div>
   </div>
