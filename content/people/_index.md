@@ -568,7 +568,7 @@ Apart from academics, I enjoy singing and learning different musical instruments
       <img src="/media/pankaj.jpg" alt="Pankaj Pawar" class="scholar-img">
       <div>
         <h4 class="scholar-name">Pankaj Pawar</h4>
-        <p class="scholar-role">Junior Research Fellow (SRF)</p>
+        <p class="scholar-role">Senior Research Fellow (SRF)</p>
         <p class="scholar-bio">
           Joined the group in July 2024. Conducting research on Gamma-Ray Bursts (GRBs) and Transients.
         </p>
