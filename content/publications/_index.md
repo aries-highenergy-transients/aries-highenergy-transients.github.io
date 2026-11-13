@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 date: 2026-06-24
-lastmod: 2026-10-26
+lastmod: 2026-11-13
 type: page
 ---
 
@@ -105,7 +105,7 @@ GCN circulars and telegrams authored or co-authored by current group members are
 
 <details>
   <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2026 (17 Entries)</summary>
-  <ol reversed start="75" style="list-style-type: decimal; line-height: 1.6; margin-left: 1.5rem;">
+  <ol reversed start="74" style="list-style-type: decimal; line-height: 1.6; margin-left: 1.5rem;">
     <li><strong>Pankaj Pawar</strong>, Yash Sharma, <strong>Anshika Gupta</strong>, <strong>Debalina Kar</strong>, <strong>Dhruv Jain</strong>, <strong>Kuntal Misra</strong>, Amit K Ror and Shashi B. Pandey, 2026, GRB Coordinates Network, 46006. EP261015a: Further optical observations with the 1.3m DFOT [<a href="https://gcn.nasa.gov/circulars/46006" target="_blank" rel="noopener">GCN</a>]</li>
     <li><strong>Pankaj Pawar</strong>, <strong>Sarvesh Yadav</strong>, <strong>Anshika Gupta</strong>, <strong>Debalina Kar</strong>, <strong>Dhruv Jain</strong>, Yash Sharma, <strong>Kuntal Misra</strong> and Shashi B. Pandey, 2026, GRB Coordinates Network, 45998. EP261015a: Follow-up with the 1.3m DFOT [<a href="https://gcn.nasa.gov/circulars/45998" target="_blank" rel="noopener">GCN</a>]</li>
     <li><strong>Pankaj Pawar</strong>, <strong>Sarvesh Yadav</strong>, <strong>Dhruv Jain</strong>, <strong>Anshika Gupta</strong>, <strong>Debalina Kar</strong> and <strong>Kuntal Misra</strong>, 2026, GRB Coordinates Network, 45986. GRB 261017A: R-band upper limit with the 1.3-m DFOT [<a href="https://gcn.nasa.gov/circulars/45986" target="_blank" rel="noopener">GCN</a>]</li>
@@ -128,7 +128,7 @@ GCN circulars and telegrams authored or co-authored by current group members are
 
 <details>
   <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2025 (46 Entries)</summary>
-  <ol reversed start="58" style="list-style-type: decimal; line-height: 1.6; margin-left: 1.5rem;">
+  <ol reversed start="57" style="list-style-type: decimal; line-height: 1.6; margin-left: 1.5rem;">
     <li>Gupta, A., <strong>Misra, K.</strong>, Pawar, P., Jain, D., Kar, D., 2025, GRB Coordinates Network, 43277, 1. GRB 251230A: 1.3m DFOT optical upper limit. [<a href="https://gcn.nasa.gov/circulars/43277" target="_blank" rel="noopener">GCN</a>]</li>
     <li><strong>Ghosh, A.</strong>, Razzaque, S., Gupta, R., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, 2025, GRB Coordinates Network, 43262, 1. GRB 251230A: Early optical counterpart detection by LCO.. [<a href="https://gcn.nasa.gov/circulars/43262" target="_blank" rel="noopener">GCN</a>]</li>
     <li>Gupta, A., <strong>Misra, K.</strong>, Pawar, P., Jain, D., Kar, D., 2025, GRB Coordinates Network, 43224, 1. GRB 251222A: Continued 1.3m DFOT optical observation. [<a href="https://gcn.nasa.gov/circulars/43224" target="_blank" rel="noopener">GCN</a>]</li>
@@ -179,8 +179,8 @@ GCN circulars and telegrams authored or co-authored by current group members are
 </details>
 
 <details>
-  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2024 (11 Entries)</summary>
-  <ol reversed start="12" style="list-style-type: decimal; line-height: 1.6; margin-left: 1.5rem;">
+  <summary style="font-size: 1.3rem; font-weight: 600; cursor: pointer; margin: 0.8rem 0; color: #3b82f6;">GCN Circulars &amp; Telegrams — 2024 (10 Entries)</summary>
+  <ol reversed start="11" style="list-style-type: decimal; line-height: 1.6; margin-left: 1.5rem;">
     <li><strong>Ghosh, A.</strong>, Razzaque, S., Moskvitin, A., Sotnikova, Y., <strong>Dukiya, N.</strong>, Gupta, R., 2024, GRB Coordinates Network, 38702, 1. GRB 241228B: LCO optical observation. [<a href="https://gcn.nasa.gov/circulars/38702" target="_blank" rel="noopener">GCN</a>]</li>
     <li><strong>Ghosh, A.</strong>, Razzaque, S., Dukiya, N., Moskvitin, A., Sotnikova, Y., 2024, GRB Coordinates Network, 38672, 1. GRB 241029A: LCO optical observation. [<a href="https://gcn.nasa.gov/circulars/38672" target="_blank" rel="noopener">GCN</a>]</li>
     <li>Gupta, A., Ror, A., Lata, S., Museo, D., <strong>Misra, K.</strong>, Pandey, S., 2024, GRB Coordinates Network, 37893, 1. GRB241025A: 1.3m DFOT optical afterglow detection. [<a href="https://gcn.nasa.gov/circulars/37893" target="_blank" rel="noopener">GCN</a>]</li>
@@ -191,7 +191,6 @@ GCN circulars and telegrams authored or co-authored by current group members are
     <li>Gupta, A., <strong>Misra, K.</strong>, Singh, A., <strong>Dimple</strong>, 2024, GRB Coordinates Network, 36381, 1. GRB 240415A 1.3m DFOT Optical upper limit. [<a href="https://gcn.nasa.gov/circulars/36381" target="_blank" rel="noopener">GCN</a>]</li>
     <li>Amit K. Ror, <strong>Anshika Gupta</strong>, Rahul Gupta, Amar Aryan, Saurabh, and Shashi B. Pandey, 2024, GRB Coordinates Network, 36069. GRB 240411B: 1.3m DFOT Optical observations [<a href="https://gcn.nasa.gov/circulars/36069" target="_blank" rel="noopener">GCN</a>]</li>
     <li>Sharma, K., Gupta, A., <strong>Misra, K.</strong>, Joshi, J., Majumdar, P., 2024, The Astronomer's Telegram, 16614, 1. Optical follow-up of FSRQ OP313 using 1.3 m Devasthal Fast Optical Telescope (DFOT).</li>
-    <li>Chandra, A., Kumar, B., Kumar, T., <strong>Pranshu, K.</strong>, Reddy, B., Kumar, M., Dhami, P., 2024, The Astronomer's Telegram, 16847, 1. Optical follow-up observations of GOTO065054.49+593624.51.</li>
   </ol>
 </details>
 

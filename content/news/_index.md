@@ -1,6 +1,7 @@
 ---
 title: "News"
 date: 2026-06-24
+lastmod: 2026-11-13
 type: page
 ---
 
@@ -10,7 +11,17 @@ Latest discoveries, research milestones, and institutional announcements from th
 
 ---
 
-### 1. Indian Researchers Lead Study on Supernova SN 2023zcu to Refine Cosmic Distance Measurements (June 2026)
+### 1. Dr. Kumar Pranshu Completes His Ph.D. and Moves to IUCAA, Pune (November 2026)
+
+Congratulations to **Dr. Kumar Pranshu** on completing his Ph.D. and taking up a postdoctoral position at **IUCAA, Pune**!
+
+A member of the ARIES High Energy Astrophysics Group from 2022 to 2026, Pranshu contributed to time-domain astronomy and the development of the **PyLMT transient-detection pipeline** for the **4-m International Liquid Mirror Telescope (ILMT)**. We thank him for his contributions to the group and wish him continued success in his research career.
+
+[View his alumni profile and publications](/people/#pranshu).
+
+---
+
+### 2. Indian Researchers Lead Study on Supernova SN 2023zcu to Refine Cosmic Distance Measurements (June 2026)
 An international team led by **Monalisa Dubey**, **Dr. Kuntal Misra**, and **Naveen Dukiya** from ARIES has published a detailed photometric and spectroscopic analysis of the Type IIP supernova **SN 2023zcu** in the spiral galaxy **NGC 2139**. 
 
 By applying the Expanding Photospheric Method (EPM), the researchers successfully determined the supernova's distance (90.7 million light-years) and estimated its progenitor's birth mass to be about 12 times that of our Sun. This high-impact study, published in *The Astrophysical Journal*, marks a significant step forward in calibrating cosmic distance indicators and understanding the physics of core-collapse events.
@@ -20,7 +31,7 @@ By applying the Expanding Photospheric Method (EPM), the researchers successfull
 
 ---
 
-### 2. First Light Achieved for the 4m International Liquid Mirror Telescope (ILMT) at Devasthal (June 2022)
+### 3. First Light Achieved for the 4m International Liquid Mirror Telescope (ILMT) at Devasthal (June 2022)
 The **4m International Liquid Mirror Telescope (ILMT)** at the ARIES Devasthal Observatory has successfully achieved first light, commissioning India's first liquid-mirror observatory and the largest zenith-pointing telescope of its kind in the world. 
 
 Using a spinning pool of liquid mercury to form a perfect parabolic reflecting surface, the telescope scans a narrow strip of the sky daily as the Earth rotates. **Dr. Kuntal Misra**, Project Investigator for the ILMT at ARIES, highlighted the telescope's unique engineering and its enormous potential for high-cadence time-domain surveys, which will discover thousands of supernovae, gravitational-wave counterparts, and space debris.

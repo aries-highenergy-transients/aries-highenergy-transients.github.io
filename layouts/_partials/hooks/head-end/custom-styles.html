@@ -1041,6 +1041,11 @@
     line-height: 1.25 !important;
   }
 
+  .alumni-card .scholar-name {
+    font-size: inherit !important;
+    font-weight: inherit !important;
+  }
+
   .alumni-role-badge {
     display: inline-block !important;
     padding: 0.12rem 0.5rem !important;
@@ -1184,8 +1189,8 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    // Only run this logic on pages that contain .team-grid
-    if (!document.querySelector('.team-grid')) return;
+    // Profile dialogs are shared by current members and alumni.
+    if (!document.querySelector('.team-grid, .alumni-grid')) return;
 
     // 1. Create modal markup dynamically
     var modalOverlay = document.createElement('div');
@@ -1231,7 +1236,7 @@
             </div>
 
             <div class="scholar-modal-gcns-section">
-              <h5 class="scholar-modal-section-title">GCN Circulars</h5>
+              <h5 class="scholar-modal-section-title">GCN Circulars &amp; Telegrams</h5>
               <div class="scholar-modal-text scholar-modal-gcns-content"></div>
             </div>
           </div>
@@ -1369,7 +1374,7 @@
           pubsContribSection.style.display = 'none';
         }
 
-        // GCN circulars are shown separately from research papers.
+        // GCN circulars and telegrams are shown separately from research papers.
         var valGcns = hiddenDetails.querySelector('.modal-gcns');
         gcnsContent.innerHTML = '';
         if (valGcns && valGcns.querySelector('ol li')) {
